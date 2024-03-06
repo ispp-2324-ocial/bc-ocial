@@ -6,12 +6,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Base de datos de conocimiento OCIAL',
+  tagline: 'ISPP 2023-2024 GRUPO 2',
+  url: 'https://ocial.es',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  plugins: [require.resolve('docusaurus-lunr-search')],
   favicon: 'img/favicon.ico',
 
   // GitHub pages deployment config.
@@ -32,7 +33,7 @@ const config = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
-        docs: {
+        /*docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -45,7 +46,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        },*/
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -57,21 +58,23 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Base de datos de conocimiento OCIAL',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Ocial Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'Feedback/intro-feedback',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Feedback',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: 'docs/actas/intro-actas', label: 'Actas', position: 'left'},
+          {to: 'docs/Documentación actual/intro-doc-actual', label: 'Documentación actual', position: 'left'},
+          {to: 'docs/Entregables anteriores/intro-entregables-anteriores', label: 'Entregas anteriores', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ispp-2324-ocial/',
             label: 'GitHub',
             position: 'right',
           },
@@ -84,8 +87,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Feedback',
+                to: '/',
               },
             ],
           },
@@ -110,8 +113,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Actas',
+                to: 'docs/actas/intro-actas',
               },
               {
                 label: 'GitHub',
@@ -120,7 +123,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ISPP 23/24 Grupo2. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -6,3 +6,5 @@
     Tu navegador no soporta el elemento de video.
   </video>
 </MDXLayout>
+
+[TEXTO](../../../static/videos/02-Mockups-dp.mp4)

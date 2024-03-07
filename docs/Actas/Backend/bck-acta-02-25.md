@@ -6,7 +6,7 @@
 
 # ISPP 2024
 
-## Feedback clase 6 de Febrero
+## Acta reunión backend
 
 ### 06-02-2024
 

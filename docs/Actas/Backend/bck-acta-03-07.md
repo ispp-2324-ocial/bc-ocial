@@ -8,7 +8,7 @@
 
 ## Acta reunión backend
 
-### 06-02-2024
+### 07-03-2024
 
 ### Repositorio: [https://github.com/ispp-2324-ocial](https://github.com/ispp-2324-ocial)
 
@@ -51,18 +51,18 @@
 
 # Introducción
 
-Se convoca un reunión para el viernes 21/02/2024 con **hora inicio** 10.30h y **hora fin** 11.30h en discord. El motivo de la reunión es **crear el modelado de datos UML**
+Se convoca un reunión para el jueves 07/02/2024 con **hora inicio** 19.00h y **hora fin** h en discord. El motivo de la reunión es **crear el modelado de datos UML**
 
 ## Asistentes
 
-- Francisco Villalobos 
+- Adri Romero 
 - Juan José Gómez 
 - Iñigo Ruíz 
-- Jesús Zambrana 
-- Eduardo Pizarro 
 - José Carlos Ortiz 
 - Carlos Varela 
 - Raúl Montalbán
+- Francisco Villalobos
+- Jesús Zambrana
 
 ## Agenda 
 
@@ -79,32 +79,32 @@ Se convoca un reunión para el viernes 21/02/2024 con **hora inicio** 10.30h y *
  
 ## Puntos Acordados 
 
-- Se procede a editar las entidades ya creadas para asignarle los atributos. https://app.diagrams.net/#G1Vi7DzJFd7h7SctefUcG6CpK5-7CnjdBU#%7B%22pageId%22%3A%22E9daC7qaSL701wOrstOK%22%7D 
-
-- Se debate si los mensajes se van a guardar o no, la idea es que sí. 
-
-- Se debate si hay que crear la configuración en el UML para meter el idioma. La idea es que como en java se creen páginas a parte con la traducción. Se va a preguntar 
-
-- Se colorean las entidades, enumerados y las reglas de negocio del mismo color para identificarla de mejor manera. 
-
-- Se añaden algunas reglas de negocios en el modelado para explicar la relación. 
-
-- Se dice que, si una persona se le acaba la suscripción, los datos de valoraciones se mantienen guardados, solo que no aparecen hasta que vuelva a renovar. 
-
-- El rating que se va a hacer va a ser entre 0,1,2,3,4,5 
+- La meta de este sprint testing, notificaciones de eventos
+- Meter pasarela de pago (para próxima semana)
+- Opiniones y valoraciones (solo 1 por usuario, limitarlo)
+- Hacer función valoración general de un cliente (optener opiniones más o menos relevantes...)
+- Método de eventos a futuro.
+- Mandar mensaje automatico por ciudad cuando se acerque evento (websocket) para notificar por ejemplo si eres avanzado
+- Login redes sociales
+- Implementar websocket - django channels (Jesús y Francis)
+- Refactorizar métodos REST (Carlos y Raul).
+- Cambiar modelo Rating (para la próxima semana)
+- Intentar reducir code smells.
+- Crear issue por pildora individualmente
 
 ## Tareas
-- Se va a esperar a que Raul notifique que está el entorno para empezar a desarrollar. La idea es que se empiece el 22/02 
+- Testing auth juanjo  - Unitarios y de integracion - End2End.
+- Implementar auth redes (Adri y Juanjo)
+- Testing Rating
+- Limitar API (para las subscripciones) - íñigo y José Carlos
 
 ## Observaciones 
-Se va a pasar el modelado UML para los encargados de QA y frontend para que se le de un vistazo. 
-
-Hasta que no se nos de un check no avanzamos hasta la proxima 
-
+- Una valoración va asociada a un local, no a un evento.
+- Crear las Issues.
 
 ## Próxima Reunión 
-Fecha: Viernes 23/02
-Hora:  15.30h
+Fecha: por definir
+Hora:  por definir
 Lugar: Discord 
 
 --- 

@@ -28,3 +28,13 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* custom.css */
+.img-centered {
+  display: block;
+  margin: 0 auto;
+}
+
+.img-custom-height {
+  height: 100px; /* Puedes ajustar esta altura según tus necesidades */
+}

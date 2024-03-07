@@ -88,7 +88,7 @@ const config = {
             items: [
               {
                 label: 'Feedback',
-                to: '/',
+                to: 'docs/Feedback/intro-feedback/',
               },
             ],
           },
@@ -117,13 +117,13 @@ const config = {
                 to: 'docs/actas/intro-actas',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Landing Page',
+                href: 'https://ocial.es',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} ISPP 23/24 Grupo2. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ISPP 23/24 Grupo2. Hecho con Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,

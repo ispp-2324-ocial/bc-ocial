@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Fácil de usar',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    imgSrc: require('@site/static/img/Pin_Verde.png').default,
     description: (
       <>
         La base de gestión de conocimiento del grupo 2 de ISPP 23-24 se ha creado
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'Estructura',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    imgSrc: require('@site/static/img/Pin_Azul.png').default,
     description: (
       <>
         La estructura que se va a utilizar para esta base de gestión del conocimiento se divide en:
@@ -29,21 +29,21 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Por definir',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Nuestra Landing Page',
+    imgSrc: require('@site/static/img/Pin_Morado.png').default,
     description: (
       <>
-        Por definir
+        Nuestra Landing Page se encuentra alojada en <a href="https://ocial.es/">ocial.es</a>. En la que actualizaremos las novedades de la aplicación.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({imgSrc, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={imgSrc} className={styles.featureImg} role="img" style={{ width: '20%', height: '20%' }} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>

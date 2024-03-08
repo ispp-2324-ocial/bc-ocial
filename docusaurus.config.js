@@ -61,7 +61,7 @@ const config = {
         title: 'Base de datos de conocimiento OCIAL',
         logo: {
           alt: 'Ocial Logo',
-          src: 'img/logo.svg',
+          src: 'img/Ocial_Blue.png',
         },
         items: [
           {
@@ -109,7 +109,7 @@ const config = {
               },
             ],
           },
-          {
+          /**{
             title: 'More',
             items: [
               {
@@ -121,7 +121,7 @@ const config = {
                 href: 'https://ocial.es',
               },
             ],
-          },
+          },*/
         ],
         copyright: `Copyright © ${new Date().getFullYear()} ISPP 23/24 Grupo2. Hecho con Docusaurus.`,
       },

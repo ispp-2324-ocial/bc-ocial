@@ -7,4 +7,4 @@
   </video>
 </MDXLayout>
 
-[TEXTO](../../../static/videos/02-Mockups-dp.mp4)
+[ENLACE AL DOC](../../../static/videos/02-Mockups-dp.mp4)

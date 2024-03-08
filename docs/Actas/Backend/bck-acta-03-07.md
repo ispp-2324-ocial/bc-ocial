@@ -1,4 +1,4 @@
-# Acta de Reunión 21/02
+# Acta de Reunión 07/03
 
 <MDXLayout>
   <img src="https://github.com/ispp-2324-ocial/KB/blob/main/assets/Texto_Ocial.png?raw=true" alt="Texto_Ocial" className="img-centered img-custom-height" />

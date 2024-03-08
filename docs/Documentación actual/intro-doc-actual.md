@@ -4,8 +4,6 @@ sidebar_position: 1
 
 # Introducción documentación actual
 
-
-Intro doc actual
 # PLANTILLA
 ---
 
@@ -13,17 +11,11 @@ Intro doc actual
   <img src="https://github.com/ispp-2324-ocial/KB/blob/main/assets/Texto_Ocial.png?raw=true" alt="Texto_Ocial" className="img-centered img-custom-height" />
 </MDXLayout>
 
-# ISPP 2024
+# NOMBRE DEL ENTREGABLE
 
-## Feedback clase 6 de Febrero
+## TÍTULO DEL DOCUMENTO
 
-### 06-02-2024
-
-### Repositorio: [https://github.com/ispp-2324-ocial](https://github.com/ispp-2324-ocial)
-
-### Web: [https://ocial.es](https://ocial.es)
-
-### Grupo 2
+### GRUPO 2
 
 ### Miembros
 
@@ -53,7 +45,11 @@ Intro doc actual
 - [Bibliografía](#bibliografía)
 
 # Historial de versiones
-
+| Fecha | Versión | Descripción | Entrega |
+|--------------|--------------|--------------|--------------|
+|       |       |     | |
+|       |     |     |  |
+|       |     |    | |
 # Introducción
 
 # Desarrollo
@@ -63,3 +59,4 @@ Intro doc actual
 ## Conclusión
 
 # Bibliografía
+Intencionadamente en blanco

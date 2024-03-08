@@ -16,7 +16,7 @@
 
 ### Grupo 2
 
-### Miembros
+### Miembros 
 
 - Adrián Romero Flores
 - Ramón José Guerrero Romero

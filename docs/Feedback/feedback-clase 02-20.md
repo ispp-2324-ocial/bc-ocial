@@ -1,4 +1,5 @@
-# Feedback clase 20/02
+# Feedback clase 20 febrero
+
 
 **Hora inicio:** 10:30h
 

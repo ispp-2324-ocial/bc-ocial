@@ -1,4 +1,4 @@
-# Feedback clase 13/02
+# Feedback clase 13 febrero
 
 **Hora inicio:** 10.30h
 

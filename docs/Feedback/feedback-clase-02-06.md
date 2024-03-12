@@ -1,4 +1,5 @@
-# Feedback clase 06/02
+# Feedback clase 06 febrero
+
 
 <MDXLayout>
   <img src="https://github.com/ispp-2324-ocial/KB/blob/main/assets/Texto_Ocial.png?raw=true" alt="Texto_Ocial" className="img-centered img-custom-height" />
@@ -35,17 +36,27 @@
 
 # Índice
 
+- [Feedback clase 06 febrero](#feedback-clase-06-febrero)
+- [ISPP 2024](#ispp-2024)
+  - [Feedback clase 6 de Febrero](#feedback-clase-6-de-febrero)
+    - [06-02-2024](#06-02-2024)
+    - [Repositorio: https://github.com/ispp-2324-ocial](#repositorio-httpsgithubcomispp-2324-ocial)
+    - [Web: https://ocial.es](#web-httpsociales)
+    - [Grupo 2](#grupo-2)
+    - [Miembros](#miembros)
 - [Índice](#índice)
-- [Agenda](#Agenda)
-- [Grupo 6](#grupo-6)
-- [Grupo 5](#grupo-5)
-- [Grupo 4](#grupo-4)
-- [Grupo 3](#grupo-3)
-- [Grupo 2](#grupo-2)
-- [Grupo 1](#grupo-1)
-- [Comentarios generales](#comentarios-generales)
-- [Tareas](#tareas)
-- [Otras anotaciones](#otras-anotaciones)
+- [Historial de versiones](#historial-de-versiones)
+- [Introducción](#introducción)
+  - [Agenda](#agenda)
+  - [Grupo 6](#grupo-6)
+  - [Grupo 5](#grupo-5)
+  - [Grupo 4](#grupo-4)
+  - [Grupo 3](#grupo-3)
+  - [Grupo 2](#grupo-2-1)
+  - [Grupo 1](#grupo-1)
+  - [Comentarios generales](#comentarios-generales)
+  - [Tareas](#tareas)
+  - [Otras anotaciones](#otras-anotaciones)
 
 # Historial de versiones
 | Nombre de la versión | Cambios |

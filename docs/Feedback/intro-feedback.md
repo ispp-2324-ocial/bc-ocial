@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Introducción feedback
 
-ACTAS
+A continuación se presenta la plantilla para la recopilación de feedback en clase.
 
 # PLANTILLA
 ---

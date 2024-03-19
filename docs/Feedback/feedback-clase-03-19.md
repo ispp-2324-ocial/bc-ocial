@@ -1,4 +1,4 @@
-# Feedback clase 06 febrero
+# Feedback clase 19 Marzo
 
 
 <MDXLayout>
@@ -7,9 +7,9 @@
 
 # ISPP 2024
 
-## Feedback clase 6 de Febrero
+## Feedback clase 19 de Marzo
 
-### 06-02-2024
+### 19-03-2024
 
 ### Repositorio: [https://github.com/ispp-2324-ocial](https://github.com/ispp-2324-ocial)
 

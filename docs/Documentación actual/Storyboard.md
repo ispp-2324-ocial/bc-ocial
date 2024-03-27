@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 02-StoryBoard-Users.md
+# 02-StoryBoard.md
 
 ---
 

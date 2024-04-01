@@ -34,7 +34,7 @@ sidebar_position: 1
 - Carlos Varela Soult
 - Raúl Montalbán Martín
 
-# Índice
+### Índice
 
 - [Índice](#índice)
 - [Historial de versiones](#historial-de-versiones)
@@ -44,19 +44,19 @@ sidebar_position: 1
   - [Conclusión](#conclusión)
 - [Bibliografía](#bibliografía)
 
-# Historial de versiones
+### Historial de versiones
 | Fecha | Versión | Descripción | Entrega |
 |--------------|--------------|--------------|--------------|
 |       |       |     | |
 |       |     |     |  |
 |       |     |    | |
-# Introducción
+### Introducción
 
-# Desarrollo
+### Desarrollo
 
-## Más desarrollo
+### Más desarrollo
 
-## Conclusión
+### Conclusión
 
-# Bibliografía
+### Bibliografía
 Intencionadamente en blanco

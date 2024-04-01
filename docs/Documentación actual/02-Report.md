@@ -26,7 +26,7 @@
 - Carlos Varela Soult
 - Raúl Montalbán Martín
 
-# Índice
+### Índice
 
 - [Índice](#índice)
 - [Base de conocimiento](#base-de-conocimiento)
@@ -34,14 +34,14 @@
 - [Actuaciones de consolidación que se han llevado a cabo](#actuaciones-de-consolidación-que-se-han-llevado-a-cabo)
 - [Bibliografía](#bibliografía)
 
-# Historial de versiones
+### Historial de versiones
 | Fecha | Versión | Descripción | Entrega |
 |--------------|--------------|--------------|--------------|
 |   20/02/2024     | V1.0     |  Documento inicial   | DP|
 |     02/03/2024   |  V2.0    |    Actualización S1 | S1
 |     01/04/2023  |    V3.0 |   Actualización S2 | S2
 
-# Base de conocimiento
+### Base de conocimiento
 
 Link base de conocimiento común: https://bgcc.vercel.app/docs/intro 
 
@@ -49,7 +49,7 @@ Link base de conocimiento individual: https://docs.ocial.es/
 
 Ha habido una actualización en la base de conocimiento individual y se ha dejado de usar el repositorio de github “KB”. Tal y como han solicitado los profesores, se ha desplegado un docusaurus para poder tener la base de conocimiento desplegada y sobre un repositorio, para poder así tener un control de versiones.
 
-# Contenido expuesto por el grupo 2 en la base de datos común
+### Contenido expuesto por el grupo 2 en la base de datos común
 
 Cada semana se encarga dos personas (una de tarde y una de mañana) en poner el feedback general. A nuestro grupo (2), le ha tocado insertar por parte del grupo de mañana todo el feedback generado en la semana 5. 
 
@@ -65,10 +65,10 @@ También se ha añadido individualmente todo lo recopilado desde el grupo 2 en s
 ![Ejemplo 5](https://i.gyazo.com/6e325202e208dded9d9c62781a265006.png)
 
 
-# Actuaciones de consolidación que se han llevado a cabo. 
+### Actuaciones de consolidación que se han llevado a cabo. 
 
 No se han llevado a cabo actuaciones de consolidación. 
 
-# Bibliografía
+### Bibliografía
 
 Intencionadamente en blanco

@@ -124,3 +124,10 @@ Si le damos al botón de comprobar subscripción nos enviara a una pantalla dond
 - Ubicación activada y dar permisos al navegador para rastrear la ubicación.
 
 ## DEMO
+
+<MDXLayout>
+  <embed src="/assets/files/OcialDemo2-65d7ec431b32e0d8eca14a0a41f360f7.mp4" type="video/mp4" width="100%" height="600px" />
+</MDXLayout>
+
+
+[ENLACE AL VIDEO](../../static/videos/OcialDemo2.mp4)

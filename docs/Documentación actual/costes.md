@@ -29,6 +29,7 @@
 # Índice
 
 - [Índice](#índice)
+- [Historial de versiones](#historial-de-versiones)
 - [Análisis de Escenarios](#historial-de-versiones)
 - [Introducción](#introducción)
 - [Análisis de Escenarios](#analisis-de-escenarios)

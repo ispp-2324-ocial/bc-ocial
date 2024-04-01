@@ -19,6 +19,7 @@
 ### Índice
 
 - [Índice](#índice)
+- [Historial de versiones](#historial-de-versiones)
 - [Tipos de usuarios pilotos](#tipos-de-usuarios-pilotos)
 - [Plan de gestión de los usuarios pilotos](#plan-de-gestión-de-los-usuarios-pilotos)
 - [Nuestros usuarios pilotos](#nuestros-usuarios-pilotos)

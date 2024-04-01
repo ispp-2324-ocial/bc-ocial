@@ -23,6 +23,7 @@
 ### Índice
 
 - [Índice](#índice)
+- [Historial de versiones](#historial-de-versiones)
 - [Tabla de riesgos](#tabla-de-riesgos)
 - [Bibliografía](#bibliografía)
 

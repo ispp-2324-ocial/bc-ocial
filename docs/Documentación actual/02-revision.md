@@ -37,7 +37,7 @@ Detalles a tener en cuenta para la revisión y prueba de la versión del Sprint 
 
 URL Landing Page: <https://ocial.es/> 
 
-URL deployment platform: <https://develop.app.ocial.es/> 
+URL deployment platform: <https://app.ocial.es/> 
 
 URL Github repository: <https://github.com/ispp-2324-ocial> 
 
@@ -124,4 +124,3 @@ Si le damos al botón de comprobar subscripción nos enviara a una pantalla dond
 - Ubicación activada y dar permisos al navegador para rastrear la ubicación.
 
 ## DEMO
-

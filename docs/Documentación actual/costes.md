@@ -230,6 +230,19 @@ Estimación con 1000 usuarios concurrentes
 
 ![Estimación largo plazo](../../static/img/estimacionLargo.png)
 
-# Bibliografía
-Intencionadamente en blanco
+### Bibliografía
+[Enlace](https://cloud.google.com/products/calculator-legacy/#id=c76cf4c4-88ed-4a0b-bcf1-b8fd71e6c4c3)
+[Enlace](https://github.com/pricing)
+[Enlace](https://www.sonarsource.com/plans-and-pricing/#sonarcloud)
+[Enlace](https://www.idealista.com/inmueble/104022694/)
+[Enlace](https://rapidapi.com/Top-Rated/api/e-mail-check-invalid-or-disposable-domain/pricing)
+[Enlace](https://elpais.com/especiales-branded/es-laliga/2018/sabes-si-tu-bar-piratea-el-futbol-mas-de-60000-locales-lo-hacen/#:~:text=Alrededor%20de%20120.000%20bares%20apuestan,de%20acuerdo%20con%20sus%20datos)
+[Enlace](https://euroefe.euractiv.es/section/creacion-y-propiedad-intelectual/news/fuerte-caida-de-los-usuarios-de-futbol-pirata-en-espana-desde-2015/)
+[Enlace](https://www.cope.es/programas/tiempo-de-juego/noticias/sube-pirateria-futbol-millones-descargas-apps-menos-abonados-20231019_2956954)
+[Enlace](https://www.csd.gob.es/sites/default/files/media/files/2022-12/Encuesta%20de%20H%C3%A1bitos%20Deportivos%20en%20Espa%C3%B1a%202022.%20S%C3%ADntesis%20de%20resultados.pdf)
+[Enlace](https://www.rtve.es/playz/20230411/ocio-nocturno-soberania-dj/2438091.shtml)
+[Enlace](https://www.lavanguardia.com/local/madrid/20210826/7682180/ocio-nocturno-madrid-triplica-facturacion-nacional.html)
+[Enlace](https://infoautonomos.com/autonomos-espana-ley/cuantos-autonomos-espana-como-son/)
+[Enlace](https://www.mites.gob.es/ficheros/ministerio/sec_trabajo/autonomos/economia-soc/autonomos/estadistica/2023/1TRIMESTRE/PUBLICACION_PRINCIPAL_1_TRIM_2023.pdf)
+[Enlace](https://blog.xolo.io/es/estad%C3%ADsticas-de-aut%C3%B3nomos-en-espa%C3%B1a-verdades-y-sorpresas)
 

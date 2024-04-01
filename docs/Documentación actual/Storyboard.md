@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 02-StoryBoard.md
+# Story Board
 
 ---
 
@@ -10,26 +10,15 @@ sidebar_position: 1
   <img src="https://github.com/ispp-2324-ocial/KB/blob/main/assets/Texto_Ocial.png?raw=true" alt="Texto_Ocial" className="img-centered img-custom-height" />
 </MDXLayout>
 
+---
+
 # SPRINT 2
 
 ### GRUPO 2
 
-### Miembros
+### Miembros que han contribuido
 
-- Adrián Romero Flores
-- Ramón José Guerrero Romero
-- Aitor Rodríguez Dueñas
-- Fernando Jesús Fernández
-- Francisco Manuel Villalobos Páez
-- Horacio García Lergo
 - Juan José Gómez Borrallo
-- Iñigo Ruíz Marchueta
-- Jesús Zambrana Guerra
-- Eduardo Pizarro López
-- Paula Peña Fernández
-- José Carlos Ortiz Gutiérrez
-- Carlos Varela Soult
-- Raúl Montalbán Martín
 
 ### Índice
 

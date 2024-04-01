@@ -1,4 +1,4 @@
-# Costes
+# TCO
 ---
 
 <MDXLayout>

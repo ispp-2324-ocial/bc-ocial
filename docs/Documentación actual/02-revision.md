@@ -37,7 +37,7 @@ Detalles a tener en cuenta para la revisión y prueba de la versión del Sprint 
 
 URL Landing Page: <https://ocial.es/> 
 
-URL deployment platform: <https://develop.app.ocial.es/> 
+URL deployment platform: <https://app.ocial.es/> 
 
 URL Github repository: <https://github.com/ispp-2324-ocial> 
 
@@ -125,3 +125,9 @@ Si le damos al botón de comprobar subscripción nos enviara a una pantalla dond
 
 ## DEMO
 
+<MDXLayout>
+  <embed src="/assets/files/OcialDemo2-65d7ec431b32e0d8eca14a0a41f360f7.mp4" type="video/mp4" width="100%" height="600px" />
+</MDXLayout>
+
+
+[ENLACE AL VIDEO](../../static/videos/OcialDemo2.mp4)

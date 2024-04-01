@@ -16,6 +16,7 @@
 
 - Aitor Rodríguez Dueñas: Writing S1
 - Paula Peña Fernández: Writing S2
+- Adrián Romero Flores: Writing S2
 
 
 # **Historial de versiones**
@@ -59,13 +60,21 @@ La cuenta de Cliente 4 no tiene ningún dato para que se pruebe las funcionalida
 ## CASOS DE USO
 Una vez que cliquemos en el URL aportado como plataforma desplegada, nos dirigirá directamente a esta pantalla
 
+![foto1](../../static/img/land.png)
+
 Al intentar pulsar en los 3 botones, le dirigirá directamente a registrarse/iniciar sesión.
 ### CASO 1
 El usuario, como cliente o usuario, se registra en el sistema. 
 
-El usuario verá esta pantalla y si no tiene ninguna cuenta ya registrada tendrá que crearse una. Pulsará la palabra ‘Regístrate’. Si es un perfil de usuario se registrará en ese formulario, pero si va a crear una cuenta de empresa, es decir, va a ser cliente de la aplicación, pulsará en el botón ‘Cuenta de Negocio’. Deberá de Aceptar los términos y condiciones antes de crear la cuenta.
+![foto2](../../static/img/login.png)
 
-Una vez registrado, el usuario ya podrá iniciar sesión y adentrarse en la aplicación.
+El usuario verá esta pantalla y si no tiene ninguna cuenta ya registrada tendrá que crearse una. Pulsará la palabra ‘Regístrate’ o Acceder mediante una cuenta de google (esta en modo desarrollo y solo permite correos predefinidos si quiere probar esta funcionalidad escriba un correo a adrromflo@alum.us.es con un correo de gmail válido). Si es un perfil de usuario se registrará en ese formulario, pero si va a crear una cuenta de empresa, es decir, va a ser cliente de la aplicación, pulsará en el botón ‘Cuenta de Negocio’. Deberá de Aceptar los términos y condiciones antes de crear la cuenta.
+
+![foto3](../../static/img/registeruser.png)
+![foto4](../../static/img/registerclient.png)
+
+
+Una vez registrado, deberá volver a clickar en el icono de usuario y el usuario ya podrá iniciar sesión y adentrarse en la aplicación.
 
 ### CASO 2
 
@@ -73,18 +82,46 @@ Usuario navega y explora el mapa.
 
 Una vez que inicias sesión, te envía a la pantalla principal (botón central). Podrás dar permiso para que utilice tu ubicación y podrás navegar por tu zona para encontrar eventos creados.
 
+![foto1](../../static/img/land.png)
+
 Podemos buscar en el buscador alguna palabra para que filtre por eventos que contengan esa palabra.
 
+![foto5](../../static/img/buscar.png)
+
 Al pulsar sobre el logo del evento aparecerá una caja de información sobre el evento. Si pulsamos en ‘Ver detalles’ nos lleva hasta una pantalla donde aparece la información del evento de manera más detallada.
+
+![foto6](../../static/img/detailsevento.png)
 
 ###
 ### CASO 3
 El usuario puede ver su perfil y cerrar sesión
 
+![foto7](../../static/img/userlogout.png)
+
+
 ### CASO 4
+Cliente puede ver y crear sus eventos
+
+Si nos registramos como cliente, y le damos al boton de la izquierda podremos ver los eventos que has creado y un boton para crear un evento nuevo
+
+![foto8](../../static/img/detailsclient.png)
+![foto9](../../static/img/createevent.png)
+
+### CASO 5
+Cliente puede ver su perfil, subscripción y cerrar sesión
+
+Si le damos al botón de la derecha podremos ver los detalles de nuestra cuenta como clientes de Ocial.
+
+![foto10](../../static/img/dataclient.png)
+
+Si le damos al botón de comprobar subscripción nos enviara a una pantalla donde podremos ver nuestra suscripción activa y ver los detalles de las demas suscripción.
+
+![foto11](../../static/img/subs.png)
+
 
 ## REQUERIMIENTOS
 - Conexión a Internet.
 - Ubicación activada y dar permisos al navegador para rastrear la ubicación.
 
 ## DEMO
+

@@ -143,6 +143,31 @@ En una reunión se decidió hacer una votación para volver a ordenar entre todo
 En esta semana se ha dado el riesgo de que un integrante tuvo un imprevisto, y estuvo inoperativo durante dos días. En ese tiempo se activó el plan de contingencia y se repartió sus tareas entre los demás miembros, a los dos días el integrante pudo volver a estar operativo y se le volvió a asignar sus tareas
 
 . El plan fue efectivo durante esos días, ya que se pudo avanzar en las tareas que tenía asignadas sin el integrante.
+### Semana 6
+
+#### Riesgos ocurridos y vigentes
+
+| ID | Riesgo                                                  | Ocurrido | Vigente |
+|----|---------------------------------------------------------|----------|---------|
+| R1 | Planificación muy optimista de las tareas a realizar    | X        | ✓       |
+| R2 | Imprevisto de integrante del equipo. No puede hacer sus tareas una semana | ✓        | ✓       |
+| R3 | Abandono de integrante del equipo                       | X        | ✓       |
+| R4 | Adición de nuevos requisitos durante el desarrollo     | X        | ✓       |
+| R5 | Errores de la aplicación no encontrados en la fase de pruebas | X        | ✓       |
+| R6 | Análisis de requisitos incompleto y/o erróneo           | X        | ✓       |
+| R7 | Un integrante no cumple con los mínimos acordados      | X        | ✓       |
+| R8 | Pérdida de datos o problema en el hardware de un integrante | X        | ✓       |
+| R9 | Cambio en los costes de un proveedor                   | X        | ✓       |
+| R10| No hay interés por parte de los clientes               | X        | ✓       |
+| R11| El rendimiento de la aplicación es muy pobre           | X        | ✓       |
+
+#### Cambios en riesgos
+
+Se ha mantenido la misma prioridad en los riesgos.
+
+#### Cumplimiento del plan de contingencia y su efectividad  
+
+Durante esta semana,un integrante estuvo de viaje y no pudo estar operativo. Como plan de contingencia, como era un riesgo avisado, realizó sus correspondientes tareas antes de irse al viaje.
 
 ### Semana 7
 
@@ -177,7 +202,7 @@ Durante esta semana, los dos presentadores de nuestro equipo han estado indispue
 | ID  | Riesgo                                                  | Ocurrido | Vigente |
 |-----|---------------------------------------------------------|----------|---------|
 | R1  | Planificación muy optimista de las tareas a realizar    | X        | ✓       |
-| R2  | Imprevisto de integrante del equipo. No puede hacer sus tareas una semana |          | ✓       |
+| R2  | Imprevisto de integrante del equipo. No puede hacer sus tareas una semana |     X      | ✓       |
 | R3  | Abandono de integrante del equipo                       | X        | ✓       |
 | R4  | Adición de nuevos requisitos durante el desarrollo     | X        | ✓       |
 | R5  | Errores de la aplicación no encontrados en la fase de pruebas | X        | ✓       |

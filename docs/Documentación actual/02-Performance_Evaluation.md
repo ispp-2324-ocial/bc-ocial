@@ -52,21 +52,21 @@
 
 | Student                     | DP1 | S1 | S2 | S3 | PPL | WPL | Total | Weight |
 |-----------------------------|-----|----|----|----|-----|-----|-------|--------|
-| Fernández Gallardo, Fernando | 9   | 9  |    |    |     |     |     |        |
-| García Lergo, Horacio       | 9   | 10 |    |    |     |     |     |        |
-| Gómez Borrallo, Juan José   | 10  | 9  |    |    |     |     |     |        |
-| Guerrero Romero, Ramon Jose | 10  | 9  |    |    |     |     |    |        |
-| Montalbán Martín, Raúl      | 9   | 9  |    |    |     |     |    |        |
-| Ortiz Gutiérrez, José Carlos| 9   | 9  |    |    |     |     |     |        |
-| Peña Fernández, Paula       | 10  | 10 |    |    |     |     |     |        |
-| Pizarro López, Eduardo      | 9   | 9  |    |    |     |     |    |        |
-| Rodríguez Dueñas, Aitor     | 9   | 10 |    |    |     |     |    |        |
-| Romero Flores, Adrián       | 9   | 10 |    |    |     |     |    |        |
-| Ruiz Marchueta, Iñigo       | 10  | 9  |    |    |     |     |     |        |
-| Varela Soult, Carlos        | 9   | 9  |    |    |     |     |    |        |
-| Villalobos Páez, Francisco Manuel | 9   | 9  |    |    |     |     |     |        |
-| Zambrana Guerra, Jesús      | 9   | 9  |    |    |     |     |     |        |
-| Total                       | 130 | 130|    |    |     |     |       |        |
+| Fernández Gallardo, Fernando | 9   | 9  |  10  |    |     |     |     |        |
+| García Lergo, Horacio       | 9   | 10 |  10  |    |     |     |     |        |
+| Gómez Borrallo, Juan José   | 10  | 9  |  10  |    |     |     |     |        |
+| Guerrero Romero, Ramon Jose | 10  | 9  |  10  |    |     |     |    |        |
+| Montalbán Martín, Raúl      | 9   | 9  |  10  |    |     |     |    |        |
+| Ortiz Gutiérrez, José Carlos| 9   | 9  |  10  |    |     |     |     |        |
+| Peña Fernández, Paula       | 10  | 10 |  10  |    |     |     |     |        |
+| Pizarro López, Eduardo      | 9   | 9  |   10 |    |     |     |    |        |
+| Rodríguez Dueñas, Aitor     | 9   | 10 |  10  |    |     |     |    |        |
+| Romero Flores, Adrián       | 9   | 10 |   10 |    |     |     |    |        |
+| Ruiz Marchueta, Iñigo       | 10  | 9  |   10 |    |     |     |     |        |
+| Varela Soult, Carlos        | 9   | 9  |  10  |    |     |     |    |        |
+| Villalobos Páez, Francisco Manuel | 9   | 9  | 10   |    |     |     |     |        |
+| Zambrana Guerra, Jesús      | 9   | 9  |   10 |    |     |     |     |        |
+| Total                       | 130 | 130|   140 |    |     |     |       |        |
 
 ---
 
@@ -112,7 +112,9 @@ Por último, recalcar que esta semana estuve dos días de baja por indisposició
 
 #### Sprint 2 (S2)
 
-- **Fernández Gallardo, Fernando**: En este sprint...
+- **Fernández Gallardo, Fernando**: En este sprint he continuado revisando todos los Pull Requests que se han enviado a frontend, además de completar la integración continua en el backend para ejecutar la aplicación y sus tests en cada Pull Request y el Continuos delivery de las nuevas definiciones OpenAPI. 
+En desarrollo, me he encargado de terminar el globo que aparece al hacer click en el mapa durante unos días que mi compañeroa Aitor ha estado fuera y de reorganizar la estructura de ficheros y refactorizar todo el código previo al lanzamiento para mantener la calidad del código a raya (que este sprint ha empeorado). 
+En cuanto al resto de trabajo no puramente de desarrollo, he estado en muchas sesiones de Pair programming con mis compañeros Carlos, Eduardo, Jesús, Francisco, Horacio y Ramón, asistiéndole en sus dudas. 
 - **García Lergo, Horacio**: En este segundo sprint, he mejorado parte del código realizado durante el primer sprint y, mediante pair programming junto a mi compañero Ramón José Guerrero Romero, hemos terminado las vistas de registro y login de cliente, sus suscripciones, así como hacer funcionales los listados y detalles de eventos de los clientes. Por último, sigo trabajando en hacer funcional la vista de suscripciones y enlazarlo a la pasarela de pago. 
 - **Gómez Borrallo, Juan José**: En este Sprint 2 me he encargado de realiza como todas las semanas las tareas de secretaría (junto con mi compañero Ramón) de actualizar la base de conocimiento común con toda nuestra información. Además, también me he encargado junto con otro compañero de migrar los documentos y de desplegar un docusaurus para poder tener toda la documentación como código.  También me he encargado de realizarlos dos storyboards (para usuarios y para clientes), de realizar un video publicitario y de generar mediante IA una canción publicitaria. 
 Respecto a desarrollo, me he encargado de desarrollar el backend de autenticación social junto con Adrián, he realizado todo el testing correspondiente a la autenticación, he readaptado el modelo de auth a los nuevos requerimientos que se pedían, me he encargado de realizar la migración de rating (antes asociados a eventos y ahora a usuarios), corregir los tests y añadir test nuevos a los que ya estaban, he realizado junto con Raúl el backend de la pasarela de pago (creación de subscripciones con stripe) y posibilidad de cancelar las subscripciones, he hecho fixes varios que se han requerido en el backend (como por ejemplo hacer la identificación del usuario al iniciar sesión sea por el token), he arreglado el testing de eventos y he hecho de usuario piloto para el grupo de tarde. 

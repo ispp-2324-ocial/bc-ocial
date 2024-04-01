@@ -23,10 +23,11 @@ sidebar_position: 1
 ### Índice
 
 1. [Índice](#índice)
-2. [StoryBoard usuarios](#storyboard-usuarios)
-3. [StoryBoard clientes](#storyboard-clientes)
-4. [Video publicitario](#video-publicitario)
-5. [Bibliografía](#bibliografía)
+2. [Historial de versiones](#historial-de-versiones)
+3. [StoryBoard usuarios](#storyboard-usuarios)
+4. [StoryBoard clientes](#storyboard-clientes)
+5. [Video publicitario](#video-publicitario)
+6. [Bibliografía](#bibliografía)
 
 ### Historial de versiones
 | Fecha | Versión | Descripción | Entrega |

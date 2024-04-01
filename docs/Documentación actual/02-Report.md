@@ -21,6 +21,7 @@
 ### Índice
 
 - [Índice](#índice)
+- [Historial de versiones](#historial-de-versiones)
 - [Base de conocimiento](#base-de-conocimiento)
 - [Contenido expuesto por el grupo 2 en la base de datos común](#contenido-expuesto-por-el-grupo-2-en-la-base-de-datos-común)
 - [Actuaciones de consolidación que se han llevado a cabo](#actuaciones-de-consolidación-que-se-han-llevado-a-cabo)

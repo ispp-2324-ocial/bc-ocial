@@ -18,6 +18,7 @@
 - José Carlos Ortiz Gutiérrez: Writing S1
 - Iñigo Ruiz Marchueta: Writing S1, S2 and Review
 - Paula Peña Fernández: Writing S1, S2 and Review
+- Juan José Gómez Borrallo: Writing S1
 - Adrián Romero Flores: Review
 
 

@@ -23,24 +23,38 @@
 
 ### Índice
 
-- [Historial de versiones](#historial-de-versiones)
-- [Hora de servicio mínima](#hora-de-servicio-mínima)
-- [CAPEX](#capex)
-  - [Desarrollo](#desarrollo)
-  - [Infraestructuras y licencias](#infraestructuras-y-licencias)
-- [OPEX](#opex)
-  - [Costes de Infraestructuras y Licencias](#costes-de-infraestructuras-y-licencias)
-  - [Costes de operación mensual](#costes-de-operación-mensual)
-  - [Costes de Recompensa Usuarios Pilotos](#costes-de-recompensa-usuarios-pilotos)
-- [Evolución del TCO](#evolución-del-tco)
-- [Estimación del TCO](#estimación-del-tco)
-- [Desarrollo TCO en 24 meses](#desarrollo-tco-en-24-meses)
+- [TCO](#tco)
+- [SPRINT 2](#sprint-2)
+    - [GRUPO 2](#grupo-2)
+    - [Miembros que han contribuido](#miembros-que-han-contribuido)
+    - [Índice](#índice)
+    - [Historial de versiones](#historial-de-versiones)
+    - [Hora de servicio mínima](#hora-de-servicio-mínima)
+    - [CAPEX](#capex)
+      - [Desarrollo](#desarrollo)
+      - [Infraestructuras y licencias](#infraestructuras-y-licencias)
+    - [OPEX](#opex)
+      - [Costes de Infraestructuras y Licencias](#costes-de-infraestructuras-y-licencias)
+      - [Costes de operación mensual](#costes-de-operación-mensual)
+      - [Costes de Recompensa Usuarios Pilotos](#costes-de-recompensa-usuarios-pilotos)
+    - [Evolución del TCO](#evolución-del-tco)
+    - [Estimación del TCO](#estimación-del-tco)
+    - [Desarrollo TCO en 24 meses](#desarrollo-tco-en-24-meses)
 - [Análisis de Escenarios](#análisis-de-escenarios)
   - [ESTIMACIÓN PESIMISTA 2%](#estimación-pesimista-2)
+    - [Bares](#bares)
+    - [Ocio Nocturno](#ocio-nocturno)
+    - [Autónomo](#autónomo)
   - [ESTIMACIÓN OPTIMISTA 10%](#estimación-optimista-10)
+    - [Bares](#bares-1)
+    - [Ocio Nocturno](#ocio-nocturno-1)
+    - [Autónomo](#autónomo-1)
   - [ESTIMACIÓN REALISTA 5%](#estimación-realista-5)
-- [Estimación a Corto Plazo](#estimación-a-corto-plazo)
-- [Estimación a Largo Plazo](#estimación-a-largo-plazo)
+    - [Bares](#bares-2)
+    - [Ocio Nocturno](#ocio-nocturno-2)
+    - [Autónomo](#autónomo-2)
+    - [Estimación a Corto Plazo](#estimación-a-corto-plazo)
+    - [Estimación a Largo Plazo](#estimación-a-largo-plazo)
 - [Bibliografía](#bibliografía)
 
 
@@ -105,7 +119,7 @@
 | GitHub Enterprise | 19,51 € | 2 | 1 | 39,02 € |
 | SonarCloud | 11,00 € | 1 | 1 | 11,00 € |
 | GitHub Actions | 2,30 € | 1 | 1 | 2,30 € |
-| Email Check | 50,00 € | 1 | 1 | 2,30 € |
+| Email Check | 50,00 € | 1 | 1 | 50,00 € |
 
 #### Costes de Recompensa Usuarios Pilotos
 | Coste |  1.402,92 € |

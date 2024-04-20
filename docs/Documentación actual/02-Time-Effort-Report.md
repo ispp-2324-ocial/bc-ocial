@@ -8,7 +8,7 @@
 
 ---
 
-# SPRINT 2
+# SPRINT 3
 # GRUPO 2
 
 <MDXLayout>

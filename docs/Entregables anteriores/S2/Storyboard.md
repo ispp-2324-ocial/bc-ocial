@@ -40,13 +40,13 @@ sidebar_position: 1
 ![foto1](https://cdn.discordapp.com/attachments/1217905385323757689/1217905461760888984/Story_board_final_page-0001.jpg?ex=660ef459&is=65fc7f59&hm=dd263e39d66fe551adfcc91eff0bc81b6c014a4ad0932c058f83a1ec9119ff78&)
 ![foto2](https://cdn.discordapp.com/attachments/1217905385323757689/1217905461441859677/Story_board_final_page-0002.jpg?ex=660ef459&is=65fc7f59&hm=f871e93b09682d9112a47f1349cb60b84b630939cea30aef42ea7b1e636ced87&)
 
-[Click aquí si no visualiza - 1](../../static/img/Story_board_usuarios_1.jpg)
-[Click aquí si no visualiza - 2](../../static/img/Story_board_usuarios_2.jpg)
+[Click aquí si no visualiza - 1](../../../static/img/Story_board_usuarios_1.jpg)
+[Click aquí si no visualiza - 2](../../../static/img/Story_board_usuarios_2.jpg)
 
 ### StoryBoard clientes
 ![foto3](https://cdn.discordapp.com/attachments/1217905385323757689/1222266426224677005/Story_board_clientes_1.jpg?ex=66159750&is=66032250&hm=98e5f8a76e8a931cb8bdfc240b58c6987cfce9e50375a7597b15bfe1963a27af&)
 
-[Click aquí si no visualiza](../../static/img/Story_board_clientes_1.jpg)
+[Click aquí si no visualiza](../../../static/img/Story_board_clientes_1.jpg)
 
 
 ### Video publicitario
@@ -58,7 +58,7 @@ sidebar_position: 1
   </video>
 </MDXLayout>
 
-[URL al video](../../static/videos/Publicidad%20OCIAL.mp4)
+[URL al video](../../../static/videos/Publicidad%20OCIAL.mp4)
 
 ### Canción publicitaria
 
@@ -69,7 +69,7 @@ sidebar_position: 1
   </video>
 </MDXLayout>
 
-[URL a la canción](../../static/videos/En%20El%20Momento.mp3)
+[URL a la canción](../../../static/videos/En%20El%20Momento.mp3)
 (Hecha con IA - suno.ai)
 
 ### Bibliografía

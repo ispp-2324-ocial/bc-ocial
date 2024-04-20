@@ -8,4 +8,4 @@
 </MDXLayout>
 
 
-[ENLACE AL VIDEO](../../static/videos/Demo%20stripe.mp4)
+[ENLACE AL VIDEO](../../../static/videos/Demo%20stripe.mp4)

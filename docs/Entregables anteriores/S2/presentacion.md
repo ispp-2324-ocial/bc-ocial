@@ -14,4 +14,4 @@
   <embed src="/assets/files/Presentacion_0203-bba0bb5b993a743dfae43d5a893691df.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
-[ENLACE AL DOC](../../static/PDFs/Presentacion_0203.pdf)
+[ENLACE AL DOC](../../../static/PDFs/Presentacion_0203.pdf)

@@ -130,4 +130,4 @@ Si le damos al botón de comprobar subscripción nos enviara a una pantalla dond
 </MDXLayout>
 
 
-[ENLACE AL VIDEO](../../static/videos/OcialDemo2.mp4)
+[ENLACE AL VIDEO](../../../static/videos/OcialDemo2.mp4)

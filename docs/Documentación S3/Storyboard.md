@@ -12,24 +12,31 @@ sidebar_position: 1
 
 ---
 
-# GRUPO 2
+# SPRINT 3
 
-### SPRINT 3
-| Fecha | Versión | Autores |Descripción | Entrega |
-|--------------|--------------|---|-----------|--------------|
-|   17/02/2024     | V1.0     | Juan José Gómez Borrallo | Storyboard inicial   | S2|
-|   18/02/2024     | V1.1     | Juan José Gómez Borrallo | Video Storyboard  | S2|
-|   27/03/2024     | V1.2     | Juan José Gómez Borrallo | Añadido Storyboard clientes  | S2|
-|   20/04/2024     | V2.0     |Juan José Gómez Borrallo, Horacio García Lergo |  Añadido videos publicitarios  | S3|
+### GRUPO 2
 
+### Miembros que han contribuido
 
+- Juan José Gómez Borrallo
+- Horacio García Lergo
 
 ### Índice
 
-- [StoryBoard usuarios](#storyboard-usuarios)
-- [StoryBoard clientes](#storyboard-clientes)
-- [Videos publicitario](#videos-publicitario)
+1. [Índice](#índice)
+2. [Historial de versiones](#historial-de-versiones)
+3. [StoryBoard usuarios](#storyboard-usuarios)
+4. [StoryBoard clientes](#storyboard-clientes)
+5. [Videos publicitario](#videos-publicitario)
+6. [Bibliografía](#bibliografía)
 
+### Historial de versiones
+| Fecha | Versión | Descripción | Entrega |
+|--------------|--------------|--------------|--------------|
+|   17/02/2024     | V1.0     |  Storyboard inicial   | S2|
+|   18/02/2024     | V1.1     |  Video Storyboard  | S2|
+|   27/03/2024     | V1.2     |  Añadido Storyboard clientes  | S2|
+|   20/04/2024     | V2.0     |  Añadido videos publicitarios  | S3|
 
 ### StoryBoard usuarios
 ![foto1](https://cdn.discordapp.com/attachments/1217905385323757689/1217905461760888984/Story_board_final_page-0001.jpg?ex=660ef459&is=65fc7f59&hm=dd263e39d66fe551adfcc91eff0bc81b6c014a4ad0932c058f83a1ec9119ff78&)
@@ -91,3 +98,6 @@ sidebar_position: 1
 [URL a la canción](../../static/videos/En%20El%20Momento.mp3)
 (Hecha con IA - suno.ai)
 
+### Bibliografía
+
+Intencionadamente en blanco.

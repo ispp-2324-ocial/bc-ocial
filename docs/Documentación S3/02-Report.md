@@ -7,23 +7,33 @@
 
 ---
 
-# GRUPO 2
+# SPRINT 3
 
-### SPRINT 3
+### GRUPO 2
 
-| Fecha | Versión |Autores| Descripción | Entrega |
-|--------------|--------------|---  -----------|--------------|
-|   20/02/2024     | V1.0     |Ramón José Guerrero Romero, Juan José Gómez Borrallo |  Documento inicial   | DP|
-|     02/03/2024   |  V2.0    |Ramón José Guerrero Romero, Juan José Gómez Borrallo |    Actualización S1 | S1
-|     01/04/2023  |    V3.0 | Ramón José Guerrero Romero, Juan José Gómez Borrallo |  Actualización S2 | S2 |
-|     21/04/2023  |    V4.0 | Iñigo Ruiz Marchueta |  Review S3 | S3 |
+### Miembros que han contribuido
+
+
+- Ramón José Guerrero Romero
+- Juan José Gómez Borrallo
+
 
 ### Índice
 
+- [Índice](#índice)
+- [Historial de versiones](#historial-de-versiones)
 - [Base de conocimiento](#base-de-conocimiento)
 - [Contenido expuesto por el grupo 2 en la base de datos común](#contenido-expuesto-por-el-grupo-2-en-la-base-de-datos-común)
 - [Actuaciones de consolidación que se han llevado a cabo](#actuaciones-de-consolidación-que-se-han-llevado-a-cabo)
 - [Bibliografía](#bibliografía)
+
+### Historial de versiones
+| Fecha | Versión | Descripción | Entrega |
+|--------------|--------------|--------------|--------------|
+|   20/02/2024     | V1.0     |  Documento inicial   | DP|
+|     02/03/2024   |  V2.0    |    Actualización S1 | S1
+|     01/04/2023  |    V3.0 |   Actualización S2 | S2
+|     22/04/2023  |    V3.1 |   Actualización S3 | S3
 
 
 ### Base de conocimiento
@@ -48,11 +58,11 @@ También se ha añadido individualmente todo lo recopilado desde el grupo 2 en s
 ![Ejemplo 3](https://i.gyazo.com/95dc3c411151771600ce6ada671c4fc4.png)
 ![Ejemplo 4](https://i.gyazo.com/c8d252fb9ed7466d0d070cf468efe1af.png)
 ![Ejemplo 5](https://i.gyazo.com/6e325202e208dded9d9c62781a265006.png)
-
+![Ejemplo 6](https://i.gyazo.com/3fba731989100722bc1c097702895053.png)
 
 ### Actuaciones de consolidación que se han llevado a cabo. 
 
-No se han llevado a cabo actuaciones de consolidación. 
+Actualizar todo el contenido de la semana 7 en la base común. además de rellenar los apartados que estaban algo desfasados o que le faltaban apartados por añadir.
 
 ### Bibliografía
 

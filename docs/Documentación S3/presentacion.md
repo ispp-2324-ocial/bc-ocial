@@ -1,4 +1,4 @@
-# Presentación S2
+# Presentación S3
 ---
 
 <MDXLayout>

@@ -169,10 +169,16 @@ De documentación he estado actualizando todos documentos para el docusaurus. He
 - **Varela Soult, Carlos**: En este tercer sprint me he encargado principalmente de refactorizar los serializadores y los métodos de la api de backend para reducir el lag en la aplicación y la usabilidad de las llamadas en backend. También he hecho pair programming con Eduardo Pizarro para refactorizar el filtrado de eventos en backend, aunque no se ha podido llevar la lógica de negocio a frontend.
 Por último, he hecho de usuario piloto "Empleado" para el grupo 8.
  
-- **Villalobos Páez, Francisco Manuel**: En este segundo Sprint, he seguido cumpliendo con mis funciones de desarrollador FullStack. También, he realizado mi papel como usuario piloto del grupo de tarde (grupo 8). 
-En cuanto a documentación, me he encargado junto a Jesús Zambrana de los documentos de análisis y monitorización de riesgos. 
-En cuanto a Backend, he trabajado en ‘Pair Programming’ junto a Jesús Zambrana en el websocket de notificaciones, una función para devolver el usuario logueado dado el token, una función para devolver la lista de eventos creados por un cliente, una función para devolver los detalles de un evento, y arreglamos varios fallos que fuimos encontrando durante la realización de estas funciones. También he actuado como revisor de algunas PRs de Backend para ayudar a la agilización del trabajo. 
-En cuanto a Frontend, me he encargado de mejorar el componente BaseInput para poder aplicarle más estilos cuando sea necesario. Luego, he trabajado en ‘Pair Programming’ junto con Ramón José Guerrero y Jesús Zambrana en la búsqueda de eventos, la vista de eventos de cliente de forma funcional, el formulario de eventos de cliente de forma funcional, la vistas de login y register de forma funcional, el perfil de cliente, el perfil del usuario y los términos y condiciones en el registro. 
+- **Villalobos Páez, Francisco Manuel**: 
+Backend:
+Con Jesús he hecho los eventos destacados
+Frontend: 
+Con Ramón y con Jesús he hecho la edición de eventos, las suscripciones y refactorizacion y fixes de errores de PRs de frontend.
+Con Jesús y con Aitor hicimos los likes en frontend.
+Con Ramón y Horacio ayudamos a Adri a terminar la pasarela de pago.
+Con Ramón y Horacio, hicimos los eventos destacados en frontend.
+
+Con Carlos volví a hacer la búsqueda de eventos en frontend.
 - **Zambrana Guerra, Jesús**:En este tercer Sprint, he seguido cumpliendo con mis funciones de desarrollador FullStack. También, he realizado mi papel como usuario piloto del grupo de tarde (grupo 8). 
 En cuanto a Backend, he trabajado en ‘Pair Programming’ junto a Francisco Manuel Villalobos en los eventos destacados de un cliente, y revisar algunas pull requests
 En cuanto a Frontend,  he trabajado en ‘Pair Programming’ junto Francisco Manuel Villalobos he ayudado a Ramón José Guerrero y a Horacio García Lergo en la edición de eventos, en la eliminación de eventos y en las suscripciones. También he ayudado a Aitor Rodríguez Dueñas en la creación del like en un evento. Por último me he encargado de revisar algunas pull requests y solucionar algunos errores.

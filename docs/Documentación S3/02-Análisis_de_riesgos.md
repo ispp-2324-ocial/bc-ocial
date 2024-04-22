@@ -7,34 +7,24 @@
 
 ---
 
-# SPRINT 3
+# GRUPO 2 
 
-### GRUPO 2
+### SPRINT 3
 
-### Miembros que han contribuido
-
-- Fernando Jesús Fernández: Writing DP
-- Francisco Manuel Villalobos Páez: Writing DP, S1
-- Jesús Zambrana Guerra: Writing DP, S1
-- Paula Peña Fernández: Writing S2
-- Iñigo Ruiz Marchueta: Review S2
+| Fecha     | Versión | Autores                                                | Descripción                        | Entrega |
+|-----------|---------|--------------------------------------------------------|------------------------------------|---------|
+| 10/02/2024| V1.0    | Francisco Manuel Villalobos Páez, Jesús Zambrana Guerra, Fernando Jesús Fernández | Análisis preliminar, identificación de riesgos, probabilidades y una mitigación inicial    | DP      |
+| 17/02/2024| V1.0    | Francisco Manuel Villalobos Páez, Jesús Zambrana Guerra| Análisis completo de riesgos, se cambian las probabilidades de alto, medio, bajo a un número de 1 al 5, se añade el factor y la prioridad y se crea el plan de contingencia por cada riesgo | DP      |
+| 02/03/2024| V2.0    | Francisco Manuel Villalobos Páez, Jesús Zambrana Guerra| Cambios en probabilidades, impactos, factores y prioridades de algunos riesgos                 | S1      |
+| 01/04/2024| V3.0    | Paula Peña Fernández, Iñigo Ruiz Marchueta                                  | Añadir riesgo, cambiar prioridades               | S2      |
+| 31/03/2024| V4.0    | Paula Peña Fernández, Iñigo Ruiz Marchueta             | Actualización Sprint 3 y review             | S3      |
 
 
 ### Índice
 
-- [Índice](#índice)
-- [Historial de versiones](#historial-de-versiones)
 - [Tabla de riesgos](#tabla-de-riesgos)
 - [Bibliografía](#bibliografía)
 
-### Historial de versiones
-
-| Fecha      | Versión | Descripción                                                                                                              | Entrega |
-|------------|---------|--------------------------------------------------------------------------------------------------------------------------|---------|
-| 10/02/2024 | V1.0    | Análisis preliminar, identificación de riesgos, probabilidades y una mitigación inicial                                  | DP      |
-| 17/02/2024 | V1.1    | Análisis completo de riesgos, se cambian las probabilidades de alto, medio, bajo a un número de 1 al 5, se añade el factor y la prioridad y se crea el plan de contingencia por cada riesgo | DP      |
-| 02/03/2024 | V2.0    | Cambios en probabilidades, impactos, factores y prioridades de algunos riesgos                                            | S1      |
-| 31/03/2024 | V3.0    | Añadir riesgo, cambiar prioridades                                                                                       | S2      |
 
 ### Tabla de riesgos
 

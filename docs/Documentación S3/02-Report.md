@@ -7,32 +7,24 @@
 
 ---
 
-# SPRINT 3
+# GRUPO 2
 
-### GRUPO 2
+### SPRINT 3
 
-### Miembros que han contribuido
-
-
-- Ramón José Guerrero Romero
-- Juan José Gómez Borrallo
-
+| Fecha | Versión |Autores| Descripción | Entrega |
+|--------------|--------------|---  -----------|--------------|
+|   20/02/2024     | V1.0     |Ramón José Guerrero Romero, Juan José Gómez Borrallo |  Documento inicial   | DP|
+|     02/03/2024   |  V2.0    |Ramón José Guerrero Romero, Juan José Gómez Borrallo |    Actualización S1 | S1
+|     01/04/2023  |    V3.0 | Ramón José Guerrero Romero, Juan José Gómez Borrallo |  Actualización S2 | S2 |
+|     21/04/2023  |    V4.0 | Iñigo Ruiz Marchueta |  Review S3 | S3 |
 
 ### Índice
 
-- [Índice](#índice)
-- [Historial de versiones](#historial-de-versiones)
 - [Base de conocimiento](#base-de-conocimiento)
 - [Contenido expuesto por el grupo 2 en la base de datos común](#contenido-expuesto-por-el-grupo-2-en-la-base-de-datos-común)
 - [Actuaciones de consolidación que se han llevado a cabo](#actuaciones-de-consolidación-que-se-han-llevado-a-cabo)
 - [Bibliografía](#bibliografía)
 
-### Historial de versiones
-| Fecha | Versión | Descripción | Entrega |
-|--------------|--------------|--------------|--------------|
-|   20/02/2024     | V1.0     |  Documento inicial   | DP|
-|     02/03/2024   |  V2.0    |    Actualización S1 | S1
-|     01/04/2023  |    V3.0 |   Actualización S2 | S2
 
 ### Base de conocimiento
 

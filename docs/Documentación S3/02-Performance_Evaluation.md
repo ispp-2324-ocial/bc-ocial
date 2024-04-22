@@ -11,42 +11,26 @@
 
 ### GRUPO 2
 
-### Miembros que han contribuido
+| Fecha     | Versión |Autores| Descripción                | Entrega |
+|-----------|---------|---|----------------------------|---------|
+| 19/02/2024 | V1.0    |Todos | Creación del documento     | DP      |
+| 04/03/2024 | V2.0    | Todos | Actualización Sprint 1     | S1      |
+| 01/04/2024 | V3.0    | Todos| Actualización Sprint 2     | S2      |
+| 21/04/2024 | V4.0    | Todos| Actualización Sprint 3     | S3      |
 
-- Adrián Romero Flores
-- Ramón José Guerrero Romero
-- Aitor Rodríguez Dueñas
-- Fernando Jesús Fernández
-- Francisco Manuel Villalobos Páez
-- Horacio García Lergo
-- Juan José Gómez Borrallo
-- Iñigo Ruíz Marchueta
-- Jesús Zambrana Guerra
-- Eduardo Pizarro López
-- Paula Peña Fernández
-- José Carlos Ortiz Gutiérrez
-- Carlos Varela Soult
-- Raúl Montalbán Martín
 
 ### Índice
 
-- [Índice](#índice)
-- [Historial de versiones](#historial-de-versiones)
-- [Puntuaciones](#puntuaciones)
+- [Agreed Individual Performance Evaluation](#agreed-individual-performance-evaluation)
+- [Individual Contribution Summary](#individual-contribution-summary)
+  - [Devising a Project (DP)](#devising-a-project-dp)
+  - [Sprint 1 (S1)](#sprint-1-s1)
+  - [Sprint 2 (S2)](#sprint-2-s2)
+  - [Sprint 3 (S3)](#sprint-3-s3)
 
 
 
 
-
-## Historial de versiones
-
-| Fecha     | Versión | Descripción                | Entrega |
-|-----------|---------|----------------------------|---------|
-| 19/02/2024 | V1.0    | Creación del documento     | DP      |
-| 04/03/2024 | V2.0    | Actualización Sprint 1     | S1      |
-| 01/04/2024 | V3.0    | Actualización Sprint 2     | S2      |
-
----
 
 ### Agreed Individual Performance Evaluation
 
@@ -150,7 +134,47 @@ En cuanto a documentación, me he encargado junto a Francisco Manuel Villalobos 
 En cuanto a Backend, he trabajado en ‘Pair Programming’ junto a Francisco Manuel Villalobos en el websocket de notificaciones, una función para devolver el usuario logueado dado el token, una función para devolver la lista de eventos creados por un cliente, una función para devolver los detalles de un evento, y arreglamos varios fallos que fuimos encontrando durante la realización de estas funciones. También he actuado como revisor de algunas PRs de Backend para ayudar a la agilización del trabajo y he ayudado en algunas tareas. 
 En cuanto a Frontend,  he trabajado en ‘Pair Programming’ junto con Ramón José Guerrero y Francisco Manuel Villalobos en la búsqueda de eventos, la vista de eventos de cliente de forma funcional, el formulario de eventos de cliente de forma funcional, la vistas de login y register de forma funcional, el perfil de cliente, el perfil del usuario y los términos y condiciones en el registro. 
 
----
+#### Sprint 3 (S3)
 
+- **Fernández Gallardo, Fernando**: 
+Mantenimiento de la landing page, refactorización completa de la API en backend con Carlos y mejora del OpenAPI, pair programming en la práctica totalidad de características de frontend (filtrado, Like, desplegable, toast de errores de la API, etc...), transiciones y estados de carga de las imágenes (que aparezcan borrosas mientras se están descargando). Implementar frameworks de unit y E2E testing, mejorar el CSS del cliente (elimina totalmente los problemas del footer cubriendo parte de la página, buscador dentro del mapa, etc...), mejoras de calidad, mejoras en el entorno de desarrollo (autocompletado de clases CSS, mejoras de rendimiento en el comprobado de tipos)
+- **García Lergo, Horacio**: · Vista y funcionalidad de suscripciones (con ramón, francis y jesús)
+· Editar y eliminar evento (con ramón, francis y jesús)
+· Componente Imagen Redonda
+· Refactorizacion de los métodos conforme a los cambios de la Api
+· Vistas relacionadas con la pasarela de pago (con ramón, francis y adrián)
+
+- **Gómez Borrallo, Juan José**: Para este S3, me he encargado de  realizar la revisión de la entrega anterior antes de enviar los documentos. He trabajado como en todo los Sprints de secretario junto con mi compañero Ramón, encargándonos de anotar todo el feedback y luego pasarlo a la base de conocimiento común. He hecho de usuario piloto para el grupo de Banquet Buddy. Me he encargado de realizar todos los storyboard del grupo y también de realizar los 3 anuncios para la aplicación (uno de ellos se tuvo que repetir por el feedback recibido, y el último con la ayuda de Horacio) y de editar todos ellos. Me he encargado de mantener actualizada la base de conocimiento del grupo 2, de crear las redes sociales para Ocial, de revisar PRs en backend y de arreglar los test unitarios de backend que fallaban. 
+- **Guerrero Romero, Ramón José**: Con mis compañeros Francisco Manuel Villalobos y Jesús Zambrana he realizado la edicción de eventos, refactorización y fixes de errores referentes a PR en frontend, suscripciones y la revisión y rebase de las PR
+Con mis compañeros Francisco Manuel Villalobos y Horacio Garcia hemos ayudado en la finalización del filtrado y la pasarela de pago y hemos realizado los eventos destacados
+
+- **Montalbán Martín, Raúl**: Conectar pasarela de pago con suscripciones, revision final 113, test de carga con locust y revisión s3
+- **Ortiz Gutiérrez, José Carlos**: En este sprint finalice la tarea de métodos de comprobación del modelo de suscripciónes. Esta tarea engloba todos los métodos, filtros y verificaciones que se realizan en toda la aplicación sobre la consulta, creación y modificación de una suscripción para un determinado cliente.
+También me he encargado de elaborar un paquete de test de integración para el modelo de eventos. Estos tests ponen a prueba la funcionalidad de la API simulando casos de prueba reales de nuestra aplicación.
+- **Peña Fernández, Paula**: Como desarrolladora de Frontend he creado la funcionalidad de compartir evento como usuario.
+He realizado las diapositivas a presentar durante estas semanas del Sprint 3, además de preparar la exposición.
+Actualización y revisión de documentación. Actualizaciones TCO. Encuestas, recogida y gestión de feedback de usuarios pilotos. Adrián y yo, como nuevos roles de CM hemos diseñado los primeros movimientos de nuestro plan de marketing.
+- **Pizarro López, Eduardo**: He avanzado en el filtrado, haciendo metodos en el backend despues de un replanteamiento de como realizarlo, ya que se paso de algo de solo front a solo back, he avanzado tambien en el front, creando un metodo desde la API que me devuelve lo realizado en back, he creado un dropDown, y he ayudado en general en Backend a cualquier sugerencia o peticion ademas de revisar mas las PR. Todo esto junto a Carlos
+- **Rodríguez Dueñas, Aitor**: He realizado la funcionalidad en frontend del like al evento que permite ademas guardar ese evento en una lista. He revisado el frontend junto al resto del equipo de front y full stack y realizado refactorización en el código o englobarlo en componentes. También empecé con la funcionalidad de opiniones y valoraciones a modo de estrellas (rating) que se acabo descartando.
+  
+- **Romero Flores, Adrián**: En este tercer Sprint, he seguido con mi rol de Project Manager, desarrollador Fullstack y DevOps.
+En la parte de desarrollo backend he reimplementado la pasarela de pago con Stripe, además de varios fixes y revisiones de código.
+En la parte de desarrollo frontend he estado refactorizando y haciendo fixes.
+He sido responsable del despliegue el GCloud del backend.
+Además, junto a Paula, hemos realizado la primera iteración sobre nuestro plan de marketing.
+Por último, he sido responsable de la reredacción del customer agreement.
+- **Ruiz Marchueta, Iñigo**: En el tercer Sprint, mis tareas no han cambiado con el sprint anterior. Me he encargado de backend, presentaciones, documentación, tanto como la revisión de la misma. 
+Para el backend termine junto a Jose Carlos el modelado de todas las suscripciones y también de los metodos de comprobaciones de las suscripciones.
+De documentación he estado actualizando todos documentos para el docusaurus. He hecho de usuario piloto para el grupo 8 también.
+- **Varela Soult, Carlos**: En este tercer sprint me he encargado principalmente de refactorizar los serializadores y los métodos de la api de backend para reducir el lag en la aplicación y la usabilidad de las llamadas en backend. También he hecho pair programming con Eduardo Pizarro para refactorizar el filtrado de eventos en backend, aunque no se ha podido llevar la lógica de negocio a frontend.
+Por último, he hecho de usuario piloto "Empleado" para el grupo 8.
+ 
+- **Villalobos Páez, Francisco Manuel**: En este segundo Sprint, he seguido cumpliendo con mis funciones de desarrollador FullStack. También, he realizado mi papel como usuario piloto del grupo de tarde (grupo 8). 
+En cuanto a documentación, me he encargado junto a Jesús Zambrana de los documentos de análisis y monitorización de riesgos. 
+En cuanto a Backend, he trabajado en ‘Pair Programming’ junto a Jesús Zambrana en el websocket de notificaciones, una función para devolver el usuario logueado dado el token, una función para devolver la lista de eventos creados por un cliente, una función para devolver los detalles de un evento, y arreglamos varios fallos que fuimos encontrando durante la realización de estas funciones. También he actuado como revisor de algunas PRs de Backend para ayudar a la agilización del trabajo. 
+En cuanto a Frontend, me he encargado de mejorar el componente BaseInput para poder aplicarle más estilos cuando sea necesario. Luego, he trabajado en ‘Pair Programming’ junto con Ramón José Guerrero y Jesús Zambrana en la búsqueda de eventos, la vista de eventos de cliente de forma funcional, el formulario de eventos de cliente de forma funcional, la vistas de login y register de forma funcional, el perfil de cliente, el perfil del usuario y los términos y condiciones en el registro. 
+- **Zambrana Guerra, Jesús**:En este tercer Sprint, he seguido cumpliendo con mis funciones de desarrollador FullStack. También, he realizado mi papel como usuario piloto del grupo de tarde (grupo 8). 
+En cuanto a Backend, he trabajado en ‘Pair Programming’ junto a Francisco Manuel Villalobos en los eventos destacados de un cliente, y revisar algunas pull requests
+En cuanto a Frontend,  he trabajado en ‘Pair Programming’ junto Francisco Manuel Villalobos he ayudado a Ramón José Guerrero y a Horacio García Lergo en la edición de eventos, en la eliminación de eventos y en las suscripciones. También he ayudado a Aitor Rodríguez Dueñas en la creación del like en un evento. Por último me he encargado de revisar algunas pull requests y solucionar algunos errores.
 
 

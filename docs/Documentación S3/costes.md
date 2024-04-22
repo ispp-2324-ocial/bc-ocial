@@ -7,40 +7,31 @@
 
 ---
 
-# SPRINT 3
+# GRUPO 2
 
-### GRUPO 2
+### SPRINT 3
 
-### Miembros que han contribuido
-
-- Carlos Varela Soult: Writing DP
-- Raúl Montalbán Martín: Writing DP
-- José Carlos Ortiz Gutiérrez: Writing S1
-- Iñigo Ruiz Marchueta: Writing S1, S2 and Review
-- Paula Peña Fernández: Writing S1, S2 and Review
-- Juan José Gómez Borrallo: Writing S1
-- Adrián Romero Flores: Review
-
+| Fecha     | Versión | Autores                                                | Descripción                           | Entrega |
+|-----------|---------|--------------------------------------------------------|---------------------------------------|---------|
+| 20/02/2024| V1.0    | Carlos Varela Soult, Raúl Montalbán Martín | Versión inicial de análisis de costes | DP      |
+| 04/03/2024| V2.0    | José Carlos Ortiz Gutiérrez, Iñigo Ruiz Marchueta, Paula Peña Fernández, Juan José Gómez Borrallo| Actualización Sprint 1 y review       | S1      |
+| 01/04/2024| V3.0    | Iñigo Ruiz Marchueta, Paula Peña Fernández, Adrián Romero Flores                                 | Actualización Sprint 2 y review       | S2      |
+| 21/04/2024| V4.0    | Paula Peña Fernández, Iñigo Ruiz Marchueta, Adrián Romero Flores             | Actualización Sprint 3 y review       | S3      |
 
 ### Índice
 
-- [TCO](#tco)
-- [SPRINT 2](#sprint-2)
-    - [GRUPO 2](#grupo-2)
-    - [Miembros que han contribuido](#miembros-que-han-contribuido)
-    - [Índice](#índice)
-    - [Historial de versiones](#historial-de-versiones)
-    - [Hora de servicio mínima](#hora-de-servicio-mínima)
-    - [CAPEX](#capex)
-      - [Desarrollo](#desarrollo)
-      - [Infraestructuras y licencias](#infraestructuras-y-licencias)
-    - [OPEX](#opex)
-      - [Costes de Infraestructuras y Licencias](#costes-de-infraestructuras-y-licencias)
-      - [Costes de operación mensual](#costes-de-operación-mensual)
-      - [Costes de Recompensa Usuarios Pilotos](#costes-de-recompensa-usuarios-pilotos)
-    - [Evolución del TCO](#evolución-del-tco)
-    - [Estimación del TCO](#estimación-del-tco)
-    - [Desarrollo TCO en 24 meses](#desarrollo-tco-en-24-meses)
+- [Hora de servicio mínima](#hora-de-servicio-mínima)
+- [CAPEX](#capex)
+  - [Desarrollo](#desarrollo)
+  - [Infraestructuras y licencias](#infraestructuras-y-licencias)
+- [OPEX](#opex)
+  - [Costes de Infraestructuras y Licencias](#costes-de-infraestructuras-y-licencias)
+  - [Costes de operación mensual](#costes-de-operación-mensual)
+  - [Costes de Recompensa Usuarios Pilotos](#costes-de-recompensa-usuarios-pilotos)
+  - [Costes de Marketing](#costes-de-marketing)
+- [Evolución del TCO](#evolución-del-tco)
+- [Estimación del TCO](#estimación-del-tco)
+- [Desarrollo TCO en 24 meses](#desarrollo-tco-en-24-meses)
 - [Análisis de Escenarios](#análisis-de-escenarios)
   - [ESTIMACIÓN PESIMISTA 2%](#estimación-pesimista-2)
     - [Bares](#bares)
@@ -59,12 +50,6 @@
 - [Bibliografía](#bibliografía)
 
 
-### Historial de versiones
-| Fecha      | Versión | Descripción                           | Entrega |
-|------------|---------|---------------------------------------|---------|
-| 20/02/2024 | V1.0    | Versión inicial de análisis de costes | DP      |
-| 04/03/2024 | V2.0    | Actualización S1                      | S1      |
-| 01/04/2024 | V3.0    | Actualización S2                      | S2      |
 
 
 ### Hora de servicio mínima 
@@ -74,7 +59,7 @@
 ### CAPEX
 
 #### Desarrollo
-| Coste | 52.800,00 € |
+| Coste | 56.200,00 € |
 |--|-----|
 
 | Rol | HSM | Cantidad |Meses| Sueldo mensual |
@@ -83,6 +68,8 @@
 | Analista programador web | x1.5 | 2 |4| 1.200 € |
 | Jefe de proyecto | x2 | 1 |4| 1.600 € |
 | Diseñador gráfico | x1.5 | 1 | 4| 1.200 € |
+| CM | x1.5 | 2 |1| 2.400 € |
+| Encargado GPDR | x1 | 1 | 1.25| 1.000 € |
 
 #### Infraestructuras y licencias
 | Coste | 2.442,00 € |
@@ -130,12 +117,22 @@
 |---|---|---|---|---|
 | Usuarios Pilotos Cliente | 12,99 € | 9 | 12 | 1.402,92 € |
 
+#### Costes de Marketing
+| Coste |  3.748,00 € |
+|--|-----|
+
+| Paquete | Precio/un | Cantidad | Días | Extra | Total |
+|---|---|---|---|---|
+| Maqueta de ocial | 130,00 € | 20 |  |  | 2.600,00 € |
+| Permisos de publicidad | 150,00 € | 20 | 30 | 1,33 | 948,00 € |
+| Merchandising | 1,00 € | 200 | 1 |  | 200,00 € |
+
 ### Evolución del TCO 
 ![Evolución Tco](../../static/img/evolucionTCO.png)
 
 ### Estimación del TCO
 Contingencia del 10%<br/>
-__TCO Mensual = 6.690 €__<br/>
+__TCO Mensual = 7.400 €__<br/>
 Estimación con 1000 usuarios concurrentes
 
 ### Desarrollo TCO en 24 meses

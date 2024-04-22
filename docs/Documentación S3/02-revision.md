@@ -1,4 +1,4 @@
-﻿# Software Revision
+﻿# Revision
 ---
 
 <MDXLayout>
@@ -7,26 +7,16 @@
 
 ---
 
-# SPRINT 3
+# GRUPO 2
 
 
-### GRUPO 2
+### SPRINT 3
 
-### Miembros
-
-- Aitor Rodríguez Dueñas: Writing S1
-- Paula Peña Fernández: Writing S2
-- Adrián Romero Flores: Writing S2
-
-
-# **Historial de versiones**
-
-|Fecha|Versión|Descripción |Entrega|
-| :- | :- | :- | :- |
-|04/03/2024|V1.0|Review S1|S1|
-|01/04/2024|V2.0|Review S2|S2|
-|||||
-|||||
+|Fecha|Versión|Autores|Descripción |Entrega|
+| :- | :- |:-| :- | :- |
+|04/03/2024|V1.0|Aitor Rodríguez Dueñas |Review S1|S1|
+|01/04/2024|V2.0|Paula Peña Fernández, Adrián Romero Flores | Review S2|S2|
+|21/04/2024|V3.0|Paula Peña Fernández| Review S3|S3|
 
 
 ## INTRODUCCIÓN
@@ -49,9 +39,10 @@ URL Clockify: <https://app.clockify.me/shared/660ac19e1e41eb36ffd2ee0d>
 | :- | :- | :- |
 |CLIENTE 1|NereaRomero|p4$$word1|
 |CLIENTE 2|AliciaPerezPortillo|p4$$word2|
-|CLIENTE 3|DanielGB|p4$$word3|
-|CLIENTE 4|cafeteriaetsii|ocialpass123|
 |USUARIO 1|aitor|p4$$word|
+|USUARIO 2|DanielGB|p4$$word3|
+|ADMIN 4|cafeteriaetsii|ocialpass123|
+
 
 Las cuentas de Cliente 1, 2 y 3 tiene datos introducidos (eventos creados).
 
@@ -64,35 +55,43 @@ Una vez que cliquemos en el URL aportado como plataforma desplegada, nos dirigir
 
 Al intentar pulsar en los 3 botones, le dirigirá directamente a registrarse/iniciar sesión.
 ### CASO 1
-El usuario, como cliente o usuario, se registra en el sistema. 
+Cliente/usuario se registra e inicia sesión en la aplicación como negocio/usuario(Caso de uso implementado en #S1)
 
-![foto2](../../static/img/login.png)
+![foto2](../../static/img/login.jpg)
 
 El usuario verá esta pantalla y si no tiene ninguna cuenta ya registrada tendrá que crearse una. Pulsará la palabra ‘Regístrate’ o Acceder mediante una cuenta de google (esta en modo desarrollo y solo permite correos predefinidos si quiere probar esta funcionalidad escriba un correo a adrromflo@alum.us.es con un correo de gmail válido). Si es un perfil de usuario se registrará en ese formulario, pero si va a crear una cuenta de empresa, es decir, va a ser cliente de la aplicación, pulsará en el botón ‘Cuenta de Negocio’. Deberá de Aceptar los términos y condiciones antes de crear la cuenta.
 
-![foto3](../../static/img/registeruser.png)
-![foto4](../../static/img/registerclient.png)
+![foto3](../../static/img/registeruser.jpg)
+![foto4](../../static/img/registerclient.jpg)
 
 
 Una vez registrado, deberá volver a clickar en el icono de usuario y el usuario ya podrá iniciar sesión y adentrarse en la aplicación.
 
 ### CASO 2
 
-Usuario navega y explora el mapa.
+Usuario navega por el mapa(Caso de uso implementado en #S1)
+
 
 Una vez que inicias sesión, te envía a la pantalla principal (botón central). Podrás dar permiso para que utilice tu ubicación y podrás navegar por tu zona para encontrar eventos creados.
 
-![foto1](../../static/img/land.png)
+![foto1](../../static/img/land.jpg)
 
-Podemos buscar en el buscador alguna palabra para que filtre por eventos que contengan esa palabra.
+Usuario busca un evento que contenga una/s palabra/s concreta/s(Caso de uso implementado en #S2)
 
-![foto5](../../static/img/buscar.png)
+
+![foto5](../../static/img/buscar.jpg)
 
 Al pulsar sobre el logo del evento aparecerá una caja de información sobre el evento. Si pulsamos en ‘Ver detalles’ nos lleva hasta una pantalla donde aparece la información del evento de manera más detallada.
 
-![foto6](../../static/img/detailsevento.png)
+![foto6](../../static/img/detailsevento.jpg)
 
-###
+El Usuario valora el evento dando like(Caso de uso implementado en #S3)
+
+Usuario comparte un evento(Caso de uso implementado en #S3)
+
+![foto6](../../static/img/like.jpg)
+
+
 ### CASO 3
 El usuario puede ver su perfil y cerrar sesión
 
@@ -100,28 +99,48 @@ El usuario puede ver su perfil y cerrar sesión
 
 
 ### CASO 4
-Cliente puede ver y crear sus eventos
+Un Cliente crea un evento(Caso de uso implementado en #S2)
 
-Si nos registramos como cliente, y le damos al boton de la izquierda podremos ver los eventos que has creado y un boton para crear un evento nuevo
-
-![foto8](../../static/img/detailsclient.png)
 ![foto9](../../static/img/createevent.png)
 
+
+
+Un Cliente edita un evento (Caso de uso implementado en #S3)(Suscripción BASIC y PRO)
+
+![foto9](../../static/img/editevent.jpg)
+
+Un Cliente destaca un evento(Caso de uso implementado en #S3)(Suscripción PRO)
+
+![foto9](../../static/img/destacar.jpg)
+
+El cliente observa su lista de eventos creados(Caso de uso implementado en #S2)
+
+![foto8](../../static/img/detailsclient.png)
+
+
+
 ### CASO 5
-Cliente puede ver su perfil, subscripción y cerrar sesión
+El cliente selecciona el tipo de suscripción que se ajusta a sus necesidades(Caso de uso implementado en #S3)
+
+![foto11](../../static/img/subs.png)
+
+El Cliente paga por el sevicio de una suscripción(Caso de uso implementado en #S3)
+
+![foto10](../../static/img/pago.jpg)
 
 Si le damos al botón de la derecha podremos ver los detalles de nuestra cuenta como clientes de Ocial.
 
 ![foto10](../../static/img/dataclient.png)
 
-Si le damos al botón de comprobar subscripción nos enviara a una pantalla donde podremos ver nuestra suscripción activa y ver los detalles de las demas suscripción.
 
-![foto11](../../static/img/subs.png)
+
+
 
 
 ## REQUERIMIENTOS
 - Conexión a Internet.
 - Ubicación activada y dar permisos al navegador para rastrear la ubicación.
+- Preferiblemente no usar firefox como navegador.
 
 ## DEMO
 

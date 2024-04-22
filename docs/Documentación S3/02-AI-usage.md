@@ -7,34 +7,25 @@
 
 ---
 
-# SPRINT 3
+# GRUPO 2 
 
-### GRUPO 2
+### SPRINT 3
 
-### Miembros que han contribuido
-
-- Francisco Manuel Villalobos Páez: Writing DP, S1
-- Jesús Zambrana Guerra: Writing DP, S1
-- Paula Peña Fernández: Writing S2
-
+| Fecha     | Versión | Autores                                                | Descripción                        | Entrega |
+|-----------|---------|--------------------------------------------------------|------------------------------------|---------|
+| 19/02/2024| V1.0    | Francisco Manuel Villalobos Páez, Jesús Zambrana Guerra| Creación y redacción del documento | DP      |
+| 03/03/2024| V2.0    | Francisco Manuel Villalobos Páez, Jesús Zambrana Guerra| Actualización Sprint 1             | S1      |
+| 01/04/2024| V3.0    | Paula Peña Fernández                                   | Actualización Sprint 2             | S2      |
+| 21/04/2024| V4.0    | Paula Peña Fernández, Iñigo Ruiz Marchueta             | Actualización Sprint 3             | S3      |
 
 ### Índice
 
-- [Historial de versiones](#historial-de-versiones)
 - [Introducción](#introducción)
 - [Política de uso de Inteligencias Artificiales Generativas](#política-de-uso-de-inteligencias-artificiales-generativas)
 - [Registro de uso](#registro-de-uso)
 - [Análisis de uso](#analisis-de-uso)
 - [Bibliografía](#bibliografía)
 
-
-### Historial de versiones
-
-| Fecha     | Versión | Descripción                        | Entrega |
-|-----------|---------|------------------------------------|---------|
-| 19/02/2024| V1.0    | Creación y redacción del documento | DP      |
-| 03/03/2024| V2.0    | Actualización Sprint 1             | S1      |
-| 01/04/2024| V3.0    | Actualización Sprint 2             | S2      |
 
 ### Introducción
 
@@ -49,6 +40,8 @@ El principal uso de estas inteligencias artificiales será para la generación d
 Las inteligencias artificiales aceptadas para su uso son ChatGPT, para su uso general, y GitHub Copilot, para la generación de código.
 
 Además, para el uso de ChatGPT, se recomienda encarecidamente leerse la Guía de Ingeniería de Prompt (enlace), la cual define ciertas técnicas y metodologías para interactuar de manera eficaz y más efectiva con estos modelos.
+
+Durante el seguimiento del proyecto se ha hecho uso de otras inteligencias artificiales como SUNO.AI, Vidnoz.Ai y FakeYou para la parte de marketing como es crear imágenes, vídeos y sonidos.
 
 #### ¿Cómo registro el uso de una IA?
 
@@ -85,7 +78,7 @@ Por último, si generamos código con ChatGPT, deberemos marcarlo debidamente de
 | 19        | Se ha usado la ia SUNO.AI para generar una cancion para la app | Juan José Gómez Borrallo | 01-04-24 | [Enlace](https://app.suno.ai/song/1190787e-2fd7-4138-903a-0e6b37cf876e)           |
 | 20        | He usado el siguiente prompt, para pasar documentos a md | Iñigo Ruiz Marchueta | 01-04-24 | [Enlace](https://chat.openai.com/share/b6b3987c-e5b3-443a-82ed-3ea3fe710754)      |
 | 21        | Traducción de Customer Agreement                      | Adrián Romero Flores    | 01-04-24  |                                        [Enlace](https://chat.openai.com/share/368a2b6e-0c97-48cb-9ca0-fb4b0c7696f0)                                            |
-
+| 22        | Se ha usado vidnoz AI para pasar texto a voz                      | Juan José Gómez Borrallo    | 08-04-24  |                                        [Enlace](https://es.vidnoz.com/texto-a-voz.html)                                            |
 ### Analisis de uso
 | Prompt ID | Intentos hasta respuesta válida | Nos ofreció lo que buscábamos | Editamos la información | Tiempo ahorrado |
 |-----------|----------------------------------|---------------------------------|-------------------------|-----------------|
@@ -99,17 +92,18 @@ Por último, si generamos código con ChatGPT, deberemos marcarlo debidamente de
 | 8         | 4                                | Sí                              | Sí                      | Sí (30 – 45 min) |
 | 9         | 3                                | Sí                              | Sí                      | Sí              |
 | 10        | 3                                | Sí                              | Sí                      | Sí              |
-| 11        |                                    |                                 |                         |                 |
+| 11        |       1                             |               Sí                  |       No                   |         Sí(10 min)        |
 | 12        | 2                                | No                              | -                       | No              |
 | 13        | 3                                | No                              | Sí                      | No              |
 | 14        | 5                                | No                              | -                       | No              |
 | 15        | 1                                | Sí                              | No                      | Sí (1-2 h)      |
 | 16        | 30                               | Sí                              | Sí                      | Sí (1 hora)     |
-| 17        | 2                                | Si                              | Si                      | Si              |
-| 18        | 4                                | Si                              | Si                      | Si              |
+| 17        | 2                                | Sí                              | Sí                      | Sí              |
+| 18        | 4                                | Sí                             | Sí                     | Sí             |
 | 19        | 2                                | Sí                              | Sí                      | Sí              |
-| 20        | 1                                | Si                              | Si                      | Si              |
+| 20        | 1                                | Sí                              | Sí                     | Sí              |
 | 21        | 3                                | Sí                              | Sí                      | 1 hora          |
+| 22        | 1                                | Sí                              | No                     | Sí          |
 
 
 ### Bibliografía

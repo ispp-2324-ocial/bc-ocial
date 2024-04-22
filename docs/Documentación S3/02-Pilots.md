@@ -7,19 +7,20 @@
 
 ---
 
-# SPRINT 3
+# GRUPO 2
 
-### GRUPO 2
+### SPRINT 3
 
-### Miembros que han contribuido
+| Fecha      | Versión | Autores |Descripción                                        | Entrega |
+|------------|---------|--- | -------------------------------------------------|---------|
+| 24/02/2024 | V1.0    | Paula Peña Fernández | Inicio                                             | S1      |
+| 31/03/2024 | V2.1    | Paula Peña Fernández | Actualización del contacto y plan                  | S2      |
+| 01/03/2024 | V2.2    | Iñigo Ruiz Marchueta | Gestión del feedback                               | S2      |
+| 21/03/2024 | V3.0    | Paula Peña Fernández, Iñigo Ruiz Marchueta | Gestión del feedback                               | S3      |
 
-- Paula Peña Fernández: Writing S1, S2
-- Iñigo Ruiz Marchueta: Review S2
 
 ### Índice
 
-- [Índice](#índice)
-- [Historial de versiones](#historial-de-versiones)
 - [Tipos de usuarios pilotos](#tipos-de-usuarios-pilotos)
 - [Plan de gestión de los usuarios pilotos](#plan-de-gestión-de-los-usuarios-pilotos)
 - [Nuestros usuarios pilotos](#nuestros-usuarios-pilotos)
@@ -30,17 +31,17 @@
    - [Usabilidad](#usabilidad)
    - [Funcionalidad](#funcionalidad)
    - [Objetivos](#objetivos)
-- [Bibliografía](#bibliografía)
+   - [Conclusión de la gestión](#conclusión-de-la-gestión)
+- [Entregado a los usuarios pilotos en la segunda versión de la aplicación](#entregado-a-los-usuarios-pilotos-en-la-segunda-versión-de-la-aplicación)
+- [Gestión del feedback segunda versión de la aplicación](#gestión-del-feedback-segunda-versión-de-la-aplicación)
+   - [Usabilidad](#usabilidad)
+   - [Funcionalidad](#funcionalidad)
+   - [Objetivos](#objetivos)
+   - [Conclusión de la gestión](#conclusión-de-la-gestión)
 
 
 
-### Historial de versiones
 
-| Fecha      | Versión | Descripción                                        | Entrega |
-|------------|---------|----------------------------------------------------|---------|
-| 24/02/2024 | V1.0    | Inicio                                             | S1      |
-| 31/03/2024 | V2.1    | Actualización del contacto y plan                  | S2      |
-| 01/03/2024 | V2.2    | Gestión del feedback                               | S2      |
 
 ### Tipos de usuarios pilotos
 
@@ -86,6 +87,7 @@ Todos los usuarios pilotos que se encuentran en la tabla anterior están contact
 
 El jueves 25 de marzo se envió un correo electrónico a todos los usuarios pilotos comentando el plan que deben de seguir, las condiciones, un manual de uso explicando las funcionalidades que se pueden probar y las encuestas que deben rellenar para tener en cuenta su feedback. Tendrán hasta el 1 de abril para responder a ese feedback. A partir del 1 de abril se analizará el feedback y se tendrá en cuenta para el desarrollo del Sprint 3.
 
+Para la segunda versión de la aplicación, se volverá a enviar el correo electrónico a los usuarios pilotos para poder recoger su feedback y seguir mejorando. El día 16 de abril se envía la nueva versión con el manual y las encuestas, tendrán hasta el 19 para responder a ello y a partir de ahí analizar para hacer correcciones antes de la entrega del Sprint3.
 ### Entregado a los usuarios pilotos en la primera versión de la aplicación
 
 El usuario piloto se podrá registrar e iniciar sesión.
@@ -100,7 +102,7 @@ Registrado e iniciado como CLIENTE:
 - Podrá crear un evento.
 - Podrá navegar por la interfaz del mapa.
 
-### Gestión del feedback
+### Gestión del feedback de la primera versión de la aplicación
 
 #### Usabilidad
 
@@ -126,8 +128,59 @@ El perfil de usuario vota en su totalidad que usaría diariamente la aplicación
 
 Nos agrada estas respuestas debido a que sentimos que nuestra aplicación satisface necesidades de la población.<br/><br/>
 
+#### Conclusión de la gestión
+
 Crearemos una check list con las aportaciones de mejora para ir solucionándolas o implementadolas a medida que avance el Sprint 3 para que se tengan en cuenta como prioridad. Como la mayoría la tenemos previstas como objetivos propios opinamos que se cumplirán todas sus necesidades.
 
-### Bibliografía
+El orden de prioridad de las necesidades de los usuarios pilotos será la siguiente:
+1. Que los botones redirijan correctamente.
+2. Buscador.
+3. Editar evento.
+4. Mejorar la velocidad.
 
-Intencionadamente en blanco  
+### Entregado a los usuarios pilotos en la segunda versión de la aplicación
+
+El usuario piloto se podrá registrar e iniciar sesión.
+
+Registrado e iniciado como USUARIO:
+
+- Podrá además iniciar sesión mediante Google.
+- Podrá navegar por la interfaz del mapa, se le ubicará en su ubicación real y podrá visualizar eventos creados y al pulsar ver unos detalles sobre ese evento (nombre, sitio, capacidad).
+- Podrá buscar eventos en la barra de buscador.
+- Podrá ver su perfil y cerrar sesión.
+- Podrá compartir eventos.
+
+Registrado e iniciado como CLIENTE:
+
+- Podrá ver su perfil y cerrar sesión. En el perfil habrá un botón que al pulsarlo le mostrará la suscripción que tiene y las otras opciones de suscripción.
+- Podrá elegir suscripción y pagar por la que elija.
+- Podrá ver la lista de eventos creado y al pulsarlo le mostrará los detalles (lugar, comienzo, finalización, capacidad, categoría).
+- Podrá crear un evento.
+- Podrá navegar por la interfaz del mapa.
+- Podrá editar eventos si la suscripción lo permite.
+
+### Gestión del feedback segunda versión de la aplicación
+
+#### Usabilidad
+
+Los perfiles de cliente y usuario han votado en su totalidad que la aplicación les parece cómoda, simple y sencilla. Siguen apuntando como mejora, la mayoría, la velocidad de la página porque afirman que al pulsar un botón tarda un tiempo en realizar la acción.
+
+#### Funcionalidad
+
+Han conseguido probar todas las funcionalidades sin complicaciones y los usuarios afirman que encuentran los eventos deseados de una manera más rápida. Los clientes han votado positivamente sobre las suscripciones y el pago seguro. A los usuarios les gustaría añadir un tipo de funcionalidad para valorar los eventos.
+
+#### Objetivos
+
+El perfil de clientes vota en su totalidad que esta aplicación le ayudaría a llegar a más cantidad de público y que, por lo tanto, se imaginan usando la aplicación cada semana. Los comentarios más repetidos son que es una buena idea de aplicación y asequible a todo el mundo.
+El perfil de usuario vota en su totalidad que usaría diariamente la aplicación y que la recomendarían a sus conocidos.
+Nos agrada estas respuestas debido a que sentimos que nuestra aplicación satisface necesidades de la población.
+
+#### Conclusión de la gestión
+
+Cumplimos con toda la checklist del anterior feedback, excepto la mejora de la velocidad de la aplicación.
+
+- Valoración eventos
+- Mejorar velocidad
+- Filtrado
+
+Este será el orden de desarrollo de las nuevas necesidades de los usuarios pilotos.

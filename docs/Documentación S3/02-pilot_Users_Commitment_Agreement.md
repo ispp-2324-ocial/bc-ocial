@@ -7,9 +7,9 @@
 
 ---
 
-# SPRINT 3
+# GRUPO 2
 
-### GRUPO 2
+### SPRINT 3
 
 ### Miembros que han contribuido
 

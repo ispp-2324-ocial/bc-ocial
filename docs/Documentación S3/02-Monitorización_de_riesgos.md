@@ -7,20 +7,22 @@
 
 ---
 
-# SPRINT 3
+# GRUPO 2
 
-### GRUPO 2
+### SPRINT 3
 
-### Miembros que han contribuido
+### Historial de versiones
 
-- Francisco Manuel Villalobos Páez: Writing DP, S1
-- Jesús Zambrana Guerra: Writing DP, S1
-- Paula Peña Fernández: Writing S2
+| Fecha      | Versión |Autores | Descripción                                        | Entrega |
+|------------|---------|----------------------------------------------------|---------|
+| 17/02/2024 | V1.0    |Francisco Manuel Villalobos Páez, Jesús Zambrana Guerra|  Creación inicial del documento                     | DP      |
+| 02/03/2024 | V2.0    |Francisco Manuel Villalobos Páez, Jesús Zambrana Guerra| Añadidas semanas 2 y 3 correspondientes al primer sprint | S1      |
+| 18/03/2024 | V3.1    |Paula Peña Fernández| Añadir semana 7                                    | S2      |
+| 31/03/2024 | V3.2    |Paula Peña Fernández| Añadir semana 8                                    | S2      |
 
 
 ### Índice
 
-- [Historial de versiones](#historial-de-versiones)
 - [Semana 1](#semana-1)
   - [Riesgos ocurridos y vigentes](#riesgos-ocurridos-y-vigentes)
   - [Cambios en riesgos](#cambios-en-riesgos)
@@ -43,16 +45,6 @@
   - [Cumplimiento del plan de contingencia y su efectividad](#cumplimiento-del-plan-de-contingencia-y-su-efectividad-4)
 - [Bibliografía](#bibliografía)
 
-
-
-### Historial de versiones
-
-| Fecha      | Versión | Descripción                                        | Entrega |
-|------------|---------|----------------------------------------------------|---------|
-| 17/02/2024 | V1.0    | Creación inicial del documento                     | DP      |
-| 02/03/2024 | V2.0    | Añadidas semanas 2 y 3 correspondientes al primer sprint | S1      |
-| 18/03/2024 | V3.1    | Añadir semana 7                                    | S2      |
-| 31/03/2024 | V3.2    | Añadir semana 8                                    | S2      |
 
 ### Semana 1
 

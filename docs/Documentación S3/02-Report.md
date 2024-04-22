@@ -64,6 +64,9 @@ También se ha añadido individualmente todo lo recopilado desde el grupo 2 en s
 
 Actualizar todo el contenido de la semana 7 en la base común. además de rellenar los apartados que estaban algo desfasados o que le faltaban apartados por añadir.
 
+También se ha llevado a cabo una reestructuración de la presentación, eliminando los contenidos mencionados por los profesores para poder aportar y explicar únicamente lo que es necesario, sin decir nada demás. Se han actualizado las gráficas para añadir los costes de los nuevos roles de marketing, y se ha mejorado el anuncio, teniendo ahora una historia lineal con sentido.
+
+
 ### Bibliografía
 
 Intencionadamente en blanco

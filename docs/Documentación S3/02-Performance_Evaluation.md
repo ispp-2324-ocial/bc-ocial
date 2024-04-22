@@ -36,21 +36,21 @@
 
 | Student                     | DP1 | S1 | S2 | S3 | PPL | WPL | Total | Weight |
 |-----------------------------|-----|----|----|----|-----|-----|-------|--------|
-| Fernández Gallardo, Fernando | 9   | 9  |  10  |    |     |     |     |        |
-| García Lergo, Horacio       | 9   | 10 |  10  |    |     |     |     |        |
-| Gómez Borrallo, Juan José   | 10  | 9  |  10  |    |     |     |     |        |
-| Guerrero Romero, Ramon Jose | 10  | 9  |  10  |    |     |     |    |        |
-| Montalbán Martín, Raúl      | 9   | 9  |  10  |    |     |     |    |        |
-| Ortiz Gutiérrez, José Carlos| 9   | 9  |  10  |    |     |     |     |        |
-| Peña Fernández, Paula       | 10  | 10 |  10  |    |     |     |     |        |
-| Pizarro López, Eduardo      | 9   | 9  |   10 |    |     |     |    |        |
-| Rodríguez Dueñas, Aitor     | 9   | 10 |  10  |    |     |     |    |        |
-| Romero Flores, Adrián       | 9   | 10 |   10 |    |     |     |    |        |
-| Ruiz Marchueta, Iñigo       | 10  | 9  |   10 |    |     |     |     |        |
-| Varela Soult, Carlos        | 9   | 9  |  10  |    |     |     |    |        |
-| Villalobos Páez, Francisco Manuel | 9   | 9  | 10   |    |     |     |     |        |
-| Zambrana Guerra, Jesús      | 9   | 9  |   10 |    |     |     |     |        |
-| Total                       | 130 | 130|   140 |    |     |     |       |        |
+| Fernández Gallardo, Fernando | 9   | 9  |  10  | 10   |     |     |     |        |
+| García Lergo, Horacio       | 9   | 10 |  10  |    10|     |     |     |        |
+| Gómez Borrallo, Juan José   | 10  | 9  |  10  |   10 |     |     |     |        |
+| Guerrero Romero, Ramon Jose | 10  | 9  |  10  |   10 |     |     |    |        |
+| Montalbán Martín, Raúl      | 9   | 9  |  10  |    10|     |     |    |        |
+| Ortiz Gutiérrez, José Carlos| 9   | 9  |  10  |    10|     |     |     |        |
+| Peña Fernández, Paula       | 10  | 10 |  10  |    10|     |     |     |        |
+| Pizarro López, Eduardo      | 9   | 9  |   10 |   10 |     |     |    |        |
+| Rodríguez Dueñas, Aitor     | 9   | 10 |  10  |    10|     |     |    |        |
+| Romero Flores, Adrián       | 9   | 10 |   10 |    10|     |     |    |        |
+| Ruiz Marchueta, Iñigo       | 10  | 9  |   10 |    10|     |     |     |        |
+| Varela Soult, Carlos        | 9   | 9  |  10  |    10|     |     |    |        |
+| Villalobos Páez, Francisco Manuel | 9   | 9  | 10   |10    |     |     |     |        |
+| Zambrana Guerra, Jesús      | 9   | 9  |   10 | 10    |     |     |     |        |
+| Total                       | 130 | 130|   140 |  140  |     |     |       |        |
 
 ---
 
@@ -166,7 +166,7 @@ Por último, he sido responsable de la reredacción del customer agreement.
 - **Ruiz Marchueta, Iñigo**: En el tercer Sprint, mis tareas no han cambiado con el sprint anterior. Me he encargado de backend, presentaciones, documentación, tanto como la revisión de la misma. 
 Para el backend termine junto a Jose Carlos el modelado de todas las suscripciones y también de los metodos de comprobaciones de las suscripciones.
 De documentación he estado actualizando todos documentos para el docusaurus. He hecho de usuario piloto para el grupo 8 también.
-- **Varela Soult, Carlos**: En este tercer sprint me he encargado principalmente de refactorizar los serializadores y los métodos de la api de backend para reducir el lag en la aplicación y la usabilidad de las llamadas en backend. También he hecho pair programming con Eduardo Pizarro para refactorizar el filtrado de eventos en backend, aunque no se ha podido llevar la lógica de negocio a frontend.
+- **Varela Soult, Carlos**: En este tercer sprint me he encargado principalmente de refactorizar los serializadores y los métodos de la api de backend para reducir el lag en la aplicación y la usabilidad de las llamadas en backend. También he hecho pair programming con Eduardo Pizarro para refactorizar el filtrado de eventos en backend.
 Por último, he hecho de usuario piloto "Empleado" para el grupo 8.
  
 - **Villalobos Páez, Francisco Manuel**: 

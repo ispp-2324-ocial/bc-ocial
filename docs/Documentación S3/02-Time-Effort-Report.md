@@ -8,11 +8,11 @@
 
 ---
 
-# SPRINT 3
 # GRUPO 2
+### SPRINT 3
 
 <MDXLayout>
-  <embed src="/assets/files/Clockify_Time_Report_Summary_05_03_2024-02_04_2024-1352cd7a321506f6f47310bdb408982f.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="/assets/files/time-effort-report-s3-9afb0e910331e8df72d7c8e2ecc8b5d3.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
-[Enlace al doc](../../static/PDFs/Clockify_Time_Report_Summary_05_03_2024-02_04_2024.pdf)
+[Enlace al doc](../../static/PDFs/time-effort-report-s3.pdf)

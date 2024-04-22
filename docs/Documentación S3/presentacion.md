@@ -7,11 +7,11 @@
 
 ---
 
-# SPRINT 3
 # GRUPO 2
+### SPRINT 3 
 
 <MDXLayout>
-  <embed src="/assets/files/Presentacion_0203-bba0bb5b993a743dfae43d5a893691df.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="/assets/files/presentacion-s3-e4660b12a3c07d0f245f756c98c81429.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
-[ENLACE AL DOC](../../static/PDFs/Presentacion_0203.pdf)
+[ENLACE AL DOC](../../static/PDFs/presentacion-s3.pdf)

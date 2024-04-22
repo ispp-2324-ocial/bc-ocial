@@ -105,6 +105,7 @@ Por último, si generamos código con ChatGPT, deberemos marcarlo debidamente de
 | 21        | 3                                | Sí                              | Sí                      | 1 hora          |
 | 22        | 1                                | Sí                              | No                     | Sí          |
 
+Viendo las estadísticas de este análisis de uso que ha hecho el equipo con las inteligencias artificiales podemos concluir que la IA nos ha ofrecido mayoritariamente lo que buscábamos, aunque prácticamente siempre haya habido que hacer modificaciones, ya sea en tema código o documentación. Han servido de gran ayuda, ahorrando tiempo de investigación y sobretodo en los casos de generación de vídeos y/o imágenes. 
 
 ### Bibliografía
 

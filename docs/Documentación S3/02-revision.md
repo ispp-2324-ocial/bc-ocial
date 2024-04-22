@@ -31,22 +31,20 @@ URL deployment platform: <https://app.ocial.es/>
 
 URL Github repository: <https://github.com/ispp-2324-ocial> 
 
-URL Clockify: <https://app.clockify.me/shared/660ac19e1e41eb36ffd2ee0d> 
+URL Clockify: <https://app.clockify.me/shared/6626aabb0730fe5f66bff641> 
 
 ## CREDENCIALES
 
 |TIPO DE PERFIL DE USUARIO|USUARIO|CONTRASEÑA|
 | :- | :- | :- |
-|CLIENTE 1|NereaRomero|p4$$word1|
-|CLIENTE 2|AliciaPerezPortillo|p4$$word2|
-|USUARIO 1|aitor|p4$$word|
-|USUARIO 2|DanielGB|p4$$word3|
-|ADMIN 4|cafeteriaetsii|ocialpass123|
+|CLIENTE 1|*|*|
+|CLIENTE 2|*|*|
+|USUARIO 1|*|*|
+|USUARIO 2|*|*|
+|ADMIN|*|*|
 
 
-Las cuentas de Cliente 1, 2 y 3 tiene datos introducidos (eventos creados).
-
-La cuenta de Cliente 4 no tiene ningún dato para que se pruebe las funcionalidades.
+*Las credenciales se enviarán por mensaje de curso
 
 ## CASOS DE USO
 Una vez que cliquemos en el URL aportado como plataforma desplegada, nos dirigirá directamente a esta pantalla
@@ -54,8 +52,8 @@ Una vez que cliquemos en el URL aportado como plataforma desplegada, nos dirigir
 ![foto1](../../static/img/land.png)
 
 Al intentar pulsar en los 3 botones, le dirigirá directamente a registrarse/iniciar sesión.
-### CASO 1
-Cliente/usuario se registra e inicia sesión en la aplicación como negocio/usuario(Caso de uso implementado en #S1)
+
+**Caso de uso 1**:Cliente/usuario se registra e inicia sesión en la aplicación como negocio/usuario(Caso de uso implementado en #S1)
 
 ![foto2](../../static/img/login.jpg)
 
@@ -67,16 +65,16 @@ El usuario verá esta pantalla y si no tiene ninguna cuenta ya registrada tendr�
 
 Una vez registrado, deberá volver a clickar en el icono de usuario y el usuario ya podrá iniciar sesión y adentrarse en la aplicación.
 
-### CASO 2
 
-Usuario navega por el mapa(Caso de uso implementado en #S1)
+
+**Caso de uso 2**:Usuario navega por el mapa(Caso de uso implementado en #S1)
 
 
 Una vez que inicias sesión, te envía a la pantalla principal (botón central). Podrás dar permiso para que utilice tu ubicación y podrás navegar por tu zona para encontrar eventos creados.
 
 ![foto1](../../static/img/land.jpg)
 
-Usuario busca un evento que contenga una/s palabra/s concreta/s(Caso de uso implementado en #S2)
+**Caso de uso 3**:Usuario busca un evento que contenga una/s palabra/s concreta/s(Caso de uso implementado en #S2)
 
 
 ![foto5](../../static/img/buscar.jpg)
@@ -85,46 +83,47 @@ Al pulsar sobre el logo del evento aparecerá una caja de información sobre el 
 
 ![foto6](../../static/img/detailsevento.jpg)
 
-El Usuario valora el evento dando like(Caso de uso implementado en #S3)
+**Caso de uso 4**:El Usuario valora el evento dando like(Caso de uso implementado en #S3)
 
-Usuario comparte un evento(Caso de uso implementado en #S3)
+**Caso de uso 5**:Usuario comparte un evento(Caso de uso implementado en #S3)
 
 ![foto6](../../static/img/like.jpg)
 
 
-### CASO 3
-El usuario puede ver su perfil y cerrar sesión
+**Caso de uso 6**:El usuario puede ver su perfil y cerrar sesión
 
 ![foto7](../../static/img/userlogout.png)
 
 
-### CASO 4
-Un Cliente crea un evento(Caso de uso implementado en #S2)
+
+**Caso de uso 7**:Un Cliente crea un evento(Caso de uso implementado en #S2)
 
 ![foto9](../../static/img/createevent.png)
 
 
 
-Un Cliente edita un evento (Caso de uso implementado en #S3)(Suscripción BASIC y PRO)
+**Caso de uso 8**:Un Cliente edita un evento (Caso de uso implementado en #S3)(Suscripción BASIC y PRO)
 
 ![foto9](../../static/img/editevent.jpg)
 
-Un Cliente destaca un evento(Caso de uso implementado en #S3)(Suscripción PRO)
+**Caso de uso 9**:Un Cliente destaca un evento(Caso de uso implementado en #S3)(Suscripción PRO)
 
 ![foto9](../../static/img/destacar.jpg)
 
-El cliente observa su lista de eventos creados(Caso de uso implementado en #S2)
+![foto9](../../static/img/destacado.jpg)
+
+**Caso de uso 10**:El cliente observa su lista de eventos creados(Caso de uso implementado en #S2)
 
 ![foto8](../../static/img/detailsclient.png)
 
 
 
-### CASO 5
-El cliente selecciona el tipo de suscripción que se ajusta a sus necesidades(Caso de uso implementado en #S3)
+
+**Caso de uso 11**:El cliente selecciona el tipo de suscripción que se ajusta a sus necesidades(Caso de uso implementado en #S3)
 
 ![foto11](../../static/img/subs.png)
 
-El Cliente paga por el sevicio de una suscripción(Caso de uso implementado en #S3)
+**Caso de uso 12**:El Cliente paga por el sevicio de una suscripción(Caso de uso implementado en #S3)
 
 ![foto10](../../static/img/pago.jpg)
 
@@ -145,8 +144,8 @@ Si le damos al botón de la derecha podremos ver los detalles de nuestra cuenta 
 ## DEMO
 
 <MDXLayout>
-  <embed src="/assets/files/OcialDemo2-65d7ec431b32e0d8eca14a0a41f360f7.mp4" type="video/mp4" width="100%" height="600px" />
+  <embed src="/assets/files/DemoOcialS3-2d6f58995c728ff3dd33f6f628107ce3.mp4" type="video/mp4" width="100%" height="600px" />
 </MDXLayout>
 
 
-[ENLACE AL VIDEO](../../static/videos/OcialDemo2.mp4)
+[ENLACE AL VIDEO](../../static/videos/DemoOcialS3.mp4)

@@ -45,8 +45,8 @@ Fuente: [https://chat.openai.com/share/2b1d2058-c2c9-4371-a504-b00c42220569](htt
 
 |          | 20 de febrero | 27 de febrero | 5 de marzo | 12 de marzo | 19 de marzo | 2 de abril | 9 de abril | 23 de abril |
 |----------|---------------|----------------|------------|-------------|-------------|------------|---|---|
-| Dedicación de 6 horas a actividades y tareas | 13/14 | 13/14 | 14/14 | 8/14 | 6/14 | 13/14 | 8/14| |
-| Esfuerzo de, al menos, 50% | 14/14 | 14/14 | 14/14 | 14/14 | 14/14 | 13/14 | 13/14| |
-| Finalización de las tareas asignadas | 14/14 | 14/14 | 14/14 | 14/14 | 8/14 | 9/14 | 9/14 | |
+| Dedicación de 6 horas a actividades y tareas | 13/14 | 13/14 | 14/14 | 8/14 | 6/14 | 13/14 | 8/14|14/14 |
+| Esfuerzo de, al menos, 50% | 14/14 | 14/14 | 14/14 | 14/14 | 14/14 | 13/14 | 13/14|14/14 |
+| Finalización de las tareas asignadas | 14/14 | 14/14 | 14/14 | 14/14 | 8/14 | 9/14 | 9/14 |14/14 |
 | Registro de tiempo en Clockify | 14/14 | 14/14 | 14/14 | 14/14 | 14/14 | 14/14 |14/14 | 14/14 |
 

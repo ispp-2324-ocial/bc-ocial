@@ -11,7 +11,7 @@
 ### SPRINT 3 
 
 <MDXLayout>
-  <embed src="/assets/files/presentacion-s3-e4660b12a3c07d0f245f756c98c81429.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="/assets/files/presentacion-s3-a435697b413b183b2e15e9702bc137b7.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
 [ENLACE AL DOC](../../static/PDFs/presentacion-s3.pdf)

@@ -91,10 +91,13 @@ Se crea documento para **almacenar el feedback** recibido por los profesores de 
 
 ## Grupo 1
 
-- En la DEMO hacer una historia
+- En la DEMO hacer una historia y enelazarlo con el anuncio
+- Centrarse en casos concretos en RGPD
+- Decir porque el ROI es optimista, pesimista...
 - Mejorado el feedback dado la semana pasada
 - Quitar diapositivas que no aporten nada nuevo.
 - Enlazar la historia con la historia dada al comienzo.
+- En la demo quitar los miles de numeros que aparecen el algunos parámetros.
 - En los riesgos hablar de como se van a medir y como se van a solucionar.
 - No poder fondo oscuro.
 - Buscar más usuarios pilotos.
@@ -105,6 +108,9 @@ Se crea documento para **almacenar el feedback** recibido por los profesores de 
 ## Grupo 4
 
 - Buen inicio efectivo
+- Demo más general, no solo enfocado en S3
+- La presentación tiene más notas para el presentador que para el espectador.
+- Mucho texto en el elevator pitch
 - Roles más específicos dentro de la aplicación
 - No tener todo escrito en las diapositivas.
 - Saber explicar todos los detalles de la mejora.
@@ -118,13 +124,14 @@ Se crea documento para **almacenar el feedback** recibido por los profesores de 
 - Decir si son beneficios o ingresos.
 - En la de cosas decir si eso son todos los meses o solo los primeros.
 - Calcular el salario bruto.
-- No usar coletillas.
+- No usar coletillas, y mejorar uso de conectores
 - No muy efectivo el killer opener.
  
 
 ## Grupo 3
 
 - Explicar el coste de las oficinas.
+- No rebatir posibles mejoras.
 - Revisar los costes por la amortización de los ordenadores, o la oficina para 2 personas.
 - Bine organizado el marketing.
 - Terminar de relacionar el anuncio con la demo.
@@ -144,6 +151,7 @@ Se crea documento para **almacenar el feedback** recibido por los profesores de 
 
 - Hay que tener ya muchos eventos para que se pueda poner los anuncios con QRs.
 - Mejorar el anuncio. No decir del tirón ocial, sino, decirle, has pensado...
+- Perfecto usuarios pilotos
 - Buena DEMO.
 - Buen seguimiento de los problemas.
 - Realizar mas testing.

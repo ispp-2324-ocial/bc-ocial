@@ -71,7 +71,7 @@ const config = {
             label: 'Feedback',
           },
           {to: 'docs/actas/intro-actas', label: 'Actas', position: 'left'},
-          {to: 'docs/Documentación actual/intro-doc-actual', label: 'Documentación actual', position: 'left'},
+          {to: 'docs/Documentación S3/Storyboard', label: 'Documentación actual S3', position: 'left'},
           {to: 'docs/Entregables anteriores/intro-entregables-anteriores', label: 'Entregas anteriores', position: 'left'},
           {
             href: 'https://github.com/ispp-2324-ocial/',

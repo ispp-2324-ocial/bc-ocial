@@ -9,7 +9,7 @@
 
 # GRUPO 2
 
-### SPRINT 3
+### PPL
 
 | Fecha      | Versión | Autores |Descripción                                        | Entrega |
 |------------|---------|--- | -------------------------------------------------|---------|
@@ -17,6 +17,8 @@
 | 31/03/2024 | V2.1    | Paula Peña Fernández | Actualización del contacto y plan                  | S2      |
 | 01/03/2024 | V2.2    | Iñigo Ruiz Marchueta | Gestión del feedback                               | S2      |
 | 21/03/2024 | V3.0    | Paula Peña Fernández, Iñigo Ruiz Marchueta | Gestión del feedback                               | S3      |
+| 05/05/2024 | V4.0    | Paula Peña Fernández | Gestión del feedback                               | PPL     |
+
 
 
 ### Índice
@@ -184,3 +186,50 @@ Cumplimos con toda la checklist del anterior feedback, excepto la mejora de la v
 - Filtrado
 
 Este será el orden de desarrollo de las nuevas necesidades de los usuarios pilotos.
+
+
+### Entregado a los usuarios pilotos en la tercera versión de la aplicación
+
+El usuario piloto al entrar en el enlace de la aplicació desplegada le mostrará el mapa, pero para realizar cualquier función se tendrán que registrar.
+
+Registrado e iniciado como USUARIO:
+
+- Podrá además iniciar sesión mediante Google.
+- Podrá navegar por la interfaz del mapa, se le ubicará en su ubicación real y podrá visualizar eventos creados y al pulsar ver unos detalles sobre ese evento (nombre, sitio, capacidad).
+- Podrá buscar eventos en la barra de buscador(poner palabras que quieren que tenga el evento que buscas).
+- Podrá filtrar el evento por diferentes categorías y fechas.
+- Podrá compartir eventos mediante cualquier red social.
+- Podrá dar like a eventos.
+- Podrá ver guardados los eventos que le han gustado.
+- Podrá ver su perfil y cerrar sesión.
+
+
+Registrado e iniciado como CLIENTE:
+
+- Podrá ver su perfil y cerrar sesión. En el perfil habrá un botón que al pulsarlo le mostrará la suscripción que tiene y las otras opciones de suscripción.
+- Podrá elegir suscripción y pagar por la que elija.
+- Podrá ver la lista de eventos creado y al pulsarlo le mostrará los detalles (lugar, comienzo, finalización, capacidad, categoría).
+- Podrá crear un evento.
+- Con la suscripción gratuita solo podrá crear un evento al mes y no editará, eliminará ni destacará eventos.
+- Con la suscripción básica solo podrá crear 10 eventos en un mes y podrá editarlos y eliminarlos, pero no destacarlos.
+- Con la suscripción pro podrá crear eventos ilimitados, editar, eliminar y destacar eventos.
+
+### Gestión del feedback tercera versión de la aplicación
+
+#### Usabilidad
+
+Los perfiles de cliente y usuario han votado en su totalidad que la aplicación les parece cómoda, simple y sencilla. La velocidad ha mejorado y, por tanto, la fluidez también. Nada a mejorar en el aspecto de la usabilidad.
+
+#### Funcionalidad
+
+La prueba de todas las funcionalidades ha sido un éxito. Se han sentido seguros en toda funcionalidad de la aplicación y sin ningún tipo de complicación en realizar cualquier acción de la aplicación. Se ha conseguido implementar las funcionalidades requeridas.
+
+#### Objetivos
+
+El perfil de clientes vota en su totalidad que esta aplicación le ayudaría a llegar a más cantidad de público y que, por lo tanto, se imaginan usando la aplicación cada semana. Los comentarios más repetidos son que es una buena idea de aplicación y asequible a todo el mundo.
+El perfil de usuario vota en su totalidad que en la vida real esta aplicación tendría éxito y sería usada por una gran cantidad de gente.
+Nos agrada estas respuestas debido a que sentimos que nuestra aplicación satisface necesidades de la población.
+
+#### Conclusión de la gestión
+
+Hemos conseguido cumplir con toda la lista de funcionalidades y mejoras a completar en el anterior sprint. No se nos propone la implementación de ninguna nueva funcionalidad.

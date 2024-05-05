@@ -9,7 +9,7 @@
 
 # GRUPO 2
 
-### SPRINT 3
+### PPL
 
 ### Miembros que han contribuido
 
@@ -54,4 +54,4 @@ Si modificamos estos términos, comunicaremos los cambios de este Acuerdo. Se le
 Si tiene alguna pregunta sobre este Acuerdo, contáctenos en contacto@ocial.es.
 
 ### Análisis con Claudette
-Según la herramienta de análisis de contratos de clientes *Claudette*, tenemos dos posibles terminos injustos se puede ver en este [enlace](http://claudette.eui.eu/demo/answers/cTvSs9wGOb.html). Podemos a llegar a entender que estas clausulas son injustas, pero según el contexto de nuestra aplicación las vemos necesarias.
+Según la herramienta de análisis de contratos de clientes *Claudette*, tenemos un posibles terminos injustos se puede ver en este [enlace](http://claudette.eui.eu/demo/answers/cTvSs9wGOb.html). Podemos a llegar a entender que esta clausula sea injustas, pero según el contexto de nuestra aplicación la vemos necesaria.

@@ -1,4 +1,4 @@
-# Presentación S3
+# Presentación PPL
 ---
 
 <MDXLayout>
@@ -8,7 +8,7 @@
 ---
 
 # GRUPO 2
-### SPRINT 3 
+### PPL
 
 <MDXLayout>
   <embed src="/assets/files/presentacion-s3-a435697b413b183b2e15e9702bc137b7.pdf" type="application/pdf" width="100%" height="600px" />

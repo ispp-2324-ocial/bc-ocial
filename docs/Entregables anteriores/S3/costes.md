@@ -128,7 +128,7 @@
 | Merchandising | 1,00 € | 200 | 1 |  | 200,00 € |
 
 ### Evolución del TCO 
-![Evolución Tco](../../static/img/evolucionTCO.png)
+![Evolución Tco](../../../static/img/evolucionTCO.png)
 
 ### Estimación del TCO
 Contingencia del 10%<br/>
@@ -136,7 +136,7 @@ __TCO Mensual = 7.400 €__<br/>
 Estimación con 1000 usuarios concurrentes
 
 ### Desarrollo TCO en 24 meses
-![Desarrollo Tco](../../static/img/TCO24meses.png)
+![Desarrollo Tco](../../../static/img/TCO24meses.png)
 # Análisis de Escenarios
 
 ## ESTIMACIÓN PESIMISTA 2%
@@ -221,11 +221,11 @@ Estimación con 1000 usuarios concurrentes
 
 ### Estimación a Corto Plazo
 
-![Estimación corto plazo](../../static/img/estimacionCorto.png)
+![Estimación corto plazo](../../../static/img/estimacionCorto.png)
 
 ### Estimación a Largo Plazo
 
-![Estimación largo plazo](../../static/img/estimacionLargo.png)
+![Estimación largo plazo](../../../static/img/estimacionLargo.png)
 
 ### Bibliografía
 [Enlace](https://cloud.google.com/products/calculator-legacy/#id=c76cf4c4-88ed-4a0b-bcf1-b8fd71e6c4c3)

@@ -47,7 +47,7 @@ Durante el seguimiento del proyecto se ha hecho uso de otras inteligencias artif
 
 Para ChatGPT, deberemos exportar la conversación y guardarlo en los canales pertinentes (dependiendo del tipo de consulta) de la base de conocimiento común (enlace).
 
-![Ejemplo de los canales de registro de prompts](../../static/img/imagen_ejemplo.png)
+![Ejemplo de los canales de registro de prompts](../../../static/img/imagen_ejemplo.png)
 
 Además, deberemos poner un breve resumen de una o dos líneas, explicando que queríamos obtener con dicho prompt.
 

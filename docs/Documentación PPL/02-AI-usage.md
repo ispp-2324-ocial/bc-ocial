@@ -9,7 +9,7 @@
 
 # GRUPO 2 
 
-### SPRINT 3
+### PPL
 
 | Fecha     | Versión | Autores                                                | Descripción                        | Entrega |
 |-----------|---------|--------------------------------------------------------|------------------------------------|---------|
@@ -17,6 +17,7 @@
 | 03/03/2024| V2.0    | Francisco Manuel Villalobos Páez, Jesús Zambrana Guerra| Actualización Sprint 1             | S1      |
 | 01/04/2024| V3.0    | Paula Peña Fernández                                   | Actualización Sprint 2             | S2      |
 | 21/04/2024| V4.0    | Paula Peña Fernández, Iñigo Ruiz Marchueta             | Actualización Sprint 3             | S3      |
+| 05/05/2024| V5.0    | Paula Peña Fernández                                   | Actualización PPL                  | PPL     |
 
 ### Índice
 
@@ -79,6 +80,8 @@ Por último, si generamos código con ChatGPT, deberemos marcarlo debidamente de
 | 20        | He usado el siguiente prompt, para pasar documentos a md | Iñigo Ruiz Marchueta | 01-04-24 | [Enlace](https://chat.openai.com/share/b6b3987c-e5b3-443a-82ed-3ea3fe710754)      |
 | 21        | Traducción de Customer Agreement                      | Adrián Romero Flores    | 01-04-24  |                                        [Enlace](https://chat.openai.com/share/368a2b6e-0c97-48cb-9ca0-fb4b0c7696f0)                                            |
 | 22        | Se ha usado vidnoz AI para pasar texto a voz                      | Juan José Gómez Borrallo    | 08-04-24  |                                        [Enlace](https://es.vidnoz.com/texto-a-voz.html)                                            |
+| 23        | Ideas para marketing en una empresa                      | Paula Peña Fernández    | 27-04-24  |                                        [Enlace](https://chat.openai.com/share/a57d47ce-70d9-4278-886a-a345df19fb3e)                                            |
+| 24        | Consulta sobre SEO                     | Aitor Rodríguez Dueñas    | 28-04-24  |                                        [Enlace](https://chat.openai.com/share/aade858b-49b0-4d59-84a1-cf0757ed7141)                                            |
 ### Analisis de uso
 | Prompt ID | Intentos hasta respuesta válida | Nos ofreció lo que buscábamos | Editamos la información | Tiempo ahorrado |
 |-----------|----------------------------------|---------------------------------|-------------------------|-----------------|
@@ -104,8 +107,12 @@ Por último, si generamos código con ChatGPT, deberemos marcarlo debidamente de
 | 20        | 1                                | Sí                              | Sí                     | Sí              |
 | 21        | 3                                | Sí                              | Sí                      | 1 hora          |
 | 22        | 1                                | Sí                              | No                     | Sí          |
+| 23        | 1                                | Sí                              | No                     | 10 min          |
+| 24        | 1                                | Sí                              | No                     | 10 min          |
 
 Viendo las estadísticas de este análisis de uso que ha hecho el equipo con las inteligencias artificiales podemos concluir que la IA nos ha ofrecido mayoritariamente lo que buscábamos, aunque prácticamente siempre haya habido que hacer modificaciones, ya sea en tema código o documentación. Han servido de gran ayuda, ahorrando tiempo de investigación y sobretodo en los casos de generación de vídeos y/o imágenes. 
+
+A partir de la entrega del Sprint 3, el uso de la inteligencia artificial ha disminuido en gran proporción. La ayuda de Copilot y ChatGPT en tema código ha sido prácticamente nula para la nueva entrega. El uso de IA se ha resumido en generación de audios y preguntas sobre SEO y marketing en empresas.
 
 ### Bibliografía
 

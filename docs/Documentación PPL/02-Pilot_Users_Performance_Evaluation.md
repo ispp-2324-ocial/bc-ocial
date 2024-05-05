@@ -9,12 +9,13 @@
 
 # GRUPO 2
 
-### SPRINT 3
+### PPL
 | Fecha      | Versión | Autores|Descripción                                        | Entrega |
 |------------|---------|---|-------------------------------------------------|---------|
 | 24/02/2024 | V1.0    | Paula Peña Fernández | Creación del documento                                             | S1      |
 | 31/03/2024 | V2.0   | Paula Peña Fernández | Actualización del S2                 | S2      |
 | 21/04/2024 | V3.0   | Paula Peña Fernández | Actualización del S3                 | S3      |
+| 05/05/2024 | V4.0   | Paula Peña Fernández | Actualización del PPL                | PPL      |
 
 
 
@@ -29,3 +30,13 @@
 | Pruebas gráficas de bugs detectados    |  -  |  0  |    8 |      |      |
 | Detalle en la explicación de comentarios | - |  7  |    7 |      |      |
 
+
+Puntualidad: Tardan en responder al feedback menos de un día
+
+Validez de comentarios: Los comentarios en las casillas de texto del formulario son claros y sencillos de entender
+
+Cantidad de comentarios: Al responder al feedback un número muy reducido de personas y ser siempre las mismas no tenemos recogemos muchas más ideas variadas de mejoras o diferentes puntos de vista de la aplicación.
+
+Pruebas gráficas de bugs detectados: Solo 1 persona que realiza el formulario envía fotos de bugs
+
+Detalle en la explicación de comentarios: 

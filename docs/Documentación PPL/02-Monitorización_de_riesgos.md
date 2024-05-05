@@ -19,6 +19,7 @@
 | 02/03/2024 | V2.0    |Francisco Manuel Villalobos Páez, Jesús Zambrana Guerra| Añadidas semanas 2 y 3 correspondientes al primer sprint | S1      |
 | 18/03/2024 | V3.1    |Paula Peña Fernández| Añadir semana 7                                    | S2      |
 | 31/03/2024 | V3.2    |Paula Peña Fernández| Añadir semana 8                                    | S2      |
+| 05/05/2024 | V4   |Paula Peña Fernández| Añadir semana 11                                   | PPL      |
 
 
 ### Índice
@@ -43,6 +44,10 @@
   - [Riesgos ocurridos y vigentes](#riesgos-ocurridos-y-vigentes-4)
   - [Cambios en riesgos](#cambios-en-riesgos-4)
   - [Cumplimiento del plan de contingencia y su efectividad](#cumplimiento-del-plan-de-contingencia-y-su-efectividad-4)
+- [Semana 11](#semana-11)
+  - [Riesgos ocurridos y vigentes](#riesgos-ocurridos-y-vigentes-5)
+  - [Cambios en riesgos](#cambios-en-riesgos-5)
+  - [Cumplimiento del plan de contingencia y su efectividad](#cumplimiento-del-plan-de-contingencia-y-su-efectividad-5)
 - [Bibliografía](#bibliografía)
 
 
@@ -229,6 +234,46 @@ Se ha modificado la prioridad de los riesgos según el avance de las semanas y l
 Debido a que han ocurrido 2 riesgos durante esta semana, se han tenido que tomar dos planes de contigencia. Para empezar, descubrimos una aplicación lanzada al mercado, muy similar a la nuestra y que parece cumplir con muchas funcionalidades. La hemos analizado y hemos dado con algunas desventajas. Algunas de esas desventajas es que la aplicación se centra en una única ciudad (Valencia) y todavía no funciona correctamente bien. No deja crear eventos, cuentas ni nada más que no sea navegar por el mapa de Valencia donde hay varios eventos. Debido a esto, pensamos que todavía está en proceso de desarrollo. Viendo sus funcionalidades y pudiendo imaginar a donde quieren llegar, nuestra aplicación cuenta con la idea de funcionalidades más completas, además de que no se centra en ningún lugar en específico para que cualquier persona pueda usarla. De momento, seguiremos siguiendo nuestro plan de funcionalidades estudiando los avances de esta nueva aplicación para ver en si sus nuevas versiones pueden ser competentes a las nuestras.
 
 Ha surgido también un nuevo riesgo de despliegue de la aplicación. Al desplegar nueva versión ocurren fallos y estamos dedicando mucho tiempo a esta tarea. Debido a esto, hemos tenido que recortar el alcance del Sprint 2, pasando algunas de las tareas al Sprint 3. Como solución, los integrantes que saben más sobre despliegue están dando algunos tutoriales para que se puedan encargar más miembros del equipo y que sea una tarea más rápida.
+
+### Semana 8
+
+#### Riesgos ocurridos y vigentes
+
+| ID  | Riesgo                                                  | Ocurrido | Vigente |
+|-----|---------------------------------------------------------|----------|---------|
+| R1  | Planificación muy optimista de las tareas a realizar    | X        | ✓       |
+| R2  | Imprevisto de integrante del equipo. No puede hacer sus tareas una semana |     X      | ✓       |
+| R3  | Abandono de integrante del equipo                       | X        | ✓       |
+| R4  | Adición de nuevos requisitos durante el desarrollo     | X        | ✓       |
+| R5  | Errores de la aplicación no encontrados en la fase de pruebas | X        | ✓       |
+| R6  | Análisis de requisitos incompleto y/o erróneo           | X        | ✓       |
+| R7  | Un integrante no cumple con los mínimos acordados      | X        | ✓       |
+| R8  | Pérdida de datos o problema en el hardware de un integrante | X        | ✓       |
+| R9  | Cambio en los costes de un proveedor                   | X        | ✓       |
+| R10 | No hay interés por parte de los clientes               | X        | ✓       |
+| R11 | El rendimiento de la aplicación es muy pobre           | X        | ✓       |
+| R12 | Nueva aplicación en el mercado muy similar a la nuestra | X        | ✓       |
+| R13 | Problemas técnicos con el despliegue e integración     | X        | ✓       |
+| R14 |Cupo de horas completo por parte de algunos integrantes del equipo     | ✓        | ✓       |
+
+#### Cambios en riesgos
+
+Se ha modificado la prioridad de los riesgos según el avance de las semanas y la aparición de nuevos riesgos.
+
+- R14 comienza a tener prioridad 5.
+- R1 pasa de tener prioridad 4 a prioridad 7.
+- R2 pasa de tener prioridad 3 a prioridad 8.
+- R3 pasa de tener prioridad 6 a prioridad 9.
+- R5 pasa de tener prioridad 7 a prioridad 1.
+- R7 pasa de tener prioridad 5 a prioridad 14.
+- R10 pasa de tener prioridad 8 a prioridad 3.
+- R11 pasa de tener prioridad 9 a prioridad 2.
+- R12 pasa de tener prioridad 1 a prioridad 6.
+- R13 pasa de tener prioridad 2 a prioridad 4.
+
+#### Cumplimiento del plan de contingencia y su efectividad  
+
+Ha surgido un nuevo riesgo en el proyecto, hay varios integrantes del equipo que están a punto de cumplir con el cupo de horas totales de proyecto cuando todavía queda semanas de trabajo. Esas personas que se han sobreesforzado en horas en semanas anteriores, podrán descansar estas semanas que quedan, menos si hace falta para alguna tarea indispensable. El resto de integrantes del equipo se repartirán las tareas por hacer sin contar con esos integrantes. Esta nueva semana de PPL ha ido bien con este plan de contingencia, satisfaciendo a las personas que ya han cumplido con sus horas, su merecido descanso y sin haber surgido ningún problema de retraso en ninguna actividad.
 
 ### Bibliografía
 

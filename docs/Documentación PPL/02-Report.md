@@ -62,10 +62,13 @@ También se ha añadido individualmente todo lo recopilado desde el grupo 2 en s
 
 ### Actuaciones de consolidación que se han llevado a cabo. 
 
-Actualizar todo el contenido de la semana 7 en la base común. además de rellenar los apartados que estaban algo desfasados o que le faltaban apartados por añadir.
+Hemos conseguido encontrar un killer opener que llame la atención y conecte con una explicación corta del funcionamiento de nuestra aplicación. Continuaremos repitiéndolo para pulirlo hasta el WPL.
 
-También se ha llevado a cabo una reestructuración de la presentación, eliminando los contenidos mencionados por los profesores para poder aportar y explicar únicamente lo que es necesario, sin decir nada demás. Se han actualizado las gráficas para añadir los costes de los nuevos roles de marketing, y se ha mejorado el anuncio, teniendo ahora una historia lineal con sentido.
+Hemos recogido bien toda la información sobre Análisis de Costes, obviando palabras complicadas que no logren entender personas que no han estudiado esos términos (TCO, CAPEX, OPEX).
 
+Resumen del análisis de competidores, sin intentar convencer con muchas palabras que nuestra aplicación es mejor.
+
+Story Board bien enlazado con la demo, usando los mismos actores para realizar una explicación del funcionamiento de la aplicación real.
 
 ### Bibliografía
 

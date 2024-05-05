@@ -7,9 +7,9 @@
 
 ---
 
-# SPRINT 3
+# Grupo 2
 
-### GRUPO 2
+### PPL
 
 | Fecha     | Versión |Autores| Descripción                | Entrega |
 |-----------|---------|---|----------------------------|---------|
@@ -17,6 +17,7 @@
 | 04/03/2024 | V2.0    | Todos | Actualización Sprint 1     | S1      |
 | 01/04/2024 | V3.0    | Todos| Actualización Sprint 2     | S2      |
 | 21/04/2024 | V4.0    | Todos| Actualización Sprint 3     | S3      |
+| 05/05/2024 | V5.0    | Todos| Actualización PPL     | PPL      |
 
 
 ### Índice
@@ -27,6 +28,7 @@
   - [Sprint 1 (S1)](#sprint-1-s1)
   - [Sprint 2 (S2)](#sprint-2-s2)
   - [Sprint 3 (S3)](#sprint-3-s3)
+  - [Preparing Project Launch(PPL)](#preparing-project-launch-ppl)
 
 
 
@@ -36,21 +38,21 @@
 
 | Student                     | DP1 | S1 | S2 | S3 | PPL | WPL | Total | Weight |
 |-----------------------------|-----|----|----|----|-----|-----|-------|--------|
-| Fernández Gallardo, Fernando | 9   | 9  |  10  | 10   |     |     |     |        |
-| García Lergo, Horacio       | 9   | 10 |  10  |    10|     |     |     |        |
-| Gómez Borrallo, Juan José   | 10  | 9  |  10  |   10 |     |     |     |        |
-| Guerrero Romero, Ramon Jose | 10  | 9  |  10  |   10 |     |     |    |        |
-| Montalbán Martín, Raúl      | 9   | 9  |  10  |    10|     |     |    |        |
-| Ortiz Gutiérrez, José Carlos| 9   | 9  |  10  |    10|     |     |     |        |
-| Peña Fernández, Paula       | 10  | 10 |  10  |    10|     |     |     |        |
-| Pizarro López, Eduardo      | 9   | 9  |   10 |   10 |     |     |    |        |
-| Rodríguez Dueñas, Aitor     | 9   | 10 |  10  |    10|     |     |    |        |
-| Romero Flores, Adrián       | 9   | 10 |   10 |    10|     |     |    |        |
-| Ruiz Marchueta, Iñigo       | 10  | 9  |   10 |    10|     |     |     |        |
-| Varela Soult, Carlos        | 9   | 9  |  10  |    10|     |     |    |        |
-| Villalobos Páez, Francisco Manuel | 9   | 9  | 10   |10    |     |     |     |        |
-| Zambrana Guerra, Jesús      | 9   | 9  |   10 | 10    |     |     |     |        |
-| Total                       | 130 | 130|   140 |  140  |     |     |       |        |
+| Fernández Gallardo, Fernando | 9   | 9  |  10  | 10   | 10    |     |     |        |
+| García Lergo, Horacio       | 9   | 10 |  10  |    10|10     |     |     |        |
+| Gómez Borrallo, Juan José   | 10  | 9  |  10  |   10 |10     |     |     |        |
+| Guerrero Romero, Ramon Jose | 10  | 9  |  10  |   10 |   10  |     |    |        |
+| Montalbán Martín, Raúl      | 9   | 9  |  10  |    10|  10   |     |    |        |
+| Ortiz Gutiérrez, José Carlos| 9   | 9  |  10  |    10|  10   |     |     |        |
+| Peña Fernández, Paula       | 10  | 10 |  10  |    10|    10 |     |     |        |
+| Pizarro López, Eduardo      | 9   | 9  |   10 |   10 |     10|     |    |        |
+| Rodríguez Dueñas, Aitor     | 9   | 10 |  10  |    10| 10    |     |    |        |
+| Romero Flores, Adrián       | 9   | 10 |   10 |    10| 10    |     |    |        |
+| Ruiz Marchueta, Iñigo       | 10  | 9  |   10 |    10| 10    |     |     |        |
+| Varela Soult, Carlos        | 9   | 9  |  10  |    10| 10    |     |    |        |
+| Villalobos Páez, Francisco Manuel | 9   | 9  | 10   |10    | 10    |     |     |        |
+| Zambrana Guerra, Jesús      | 9   | 9  |   10 | 10    |   10  |     |     |        |
+| Total                       | 130 | 130|   140 |  140  | 140    |     |       |        |
 
 ---
 
@@ -183,4 +185,23 @@ Con Carlos volví a hacer la búsqueda de eventos en frontend.
 En cuanto a Backend, he trabajado en ‘Pair Programming’ junto a Francisco Manuel Villalobos en los eventos destacados de un cliente, y revisar algunas pull requests
 En cuanto a Frontend,  he trabajado en ‘Pair Programming’ junto Francisco Manuel Villalobos he ayudado a Ramón José Guerrero y a Horacio García Lergo en la edición de eventos, en la eliminación de eventos y en las suscripciones. También he ayudado a Aitor Rodríguez Dueñas en la creación del like en un evento. Por último me he encargado de revisar algunas pull requests y solucionar algunos errores.
 
+#### Project Launch Project (PPL)
+
+- **Fernández Gallardo, Fernando**: 
+- **García Lergo, Horacio**: 
+- **Gómez Borrallo, Juan José**:En este Sprint me he encargado como en los demás de realizar todas las tareas de secretaría junto con mi compañero Ramón, además de actualizar constantemente la base de conocimiento común. También he realizado de usuario piloto para el grupo de banquetbuddy. Además estuve ayudando en la revisión y entrega del anterior sprint. Por último, me he encargado de realizar el anuncio de inversores, y corregir el anuncio de clientes con el feedback de los profesores 
+- **Guerrero Romero, Ramón José**: 
+- **Montalbán Martín, Raúl**: 
+- **Ortiz Gutiérrez, José Carlos**: 
+- **Peña Fernández, Paula**: Me he encargado de realizar la presentación de preparación del WPL y la presentación de marketing para el PPL, aparte del ensayo para los días de exposición. He sido CM de la cuenta de instagram de la aplicación, además de organizar las semanas para subir contenido y preparar el lanzamiento. He actualizado los documentos de nuestro docusauros para la entrega. He realizado nuevas encuestas para los usuarios pilotos, enviandole los correos con manual de uso de la aplicación y recogida de feedback.
+- **Pizarro López, Eduardo**: 
+- **Rodríguez Dueñas, Aitor**: 
+- **Romero Flores, Adrián**: 
+- **Ruiz Marchueta, Iñigo**: En el PPL he realizado parte del testing de backend junto a mi compañero Jose Carlos, las presentaciones y su correspondientes ensayos y me he encargado la ultimas semana de subir contenido a Twitter
+- **Varela Soult, Carlos**:
+En el PPL me he encargado principalmente de hacer testing E2E en frontend utilizando Playwright con Eduardo Pizarro.
+Durante el desarrollo de los tests, era necesario poder borrar usuarios para que la base de datos de la aplicación no se llenara de información de prueba, así que incluí el método de borrado de usuarios y clientes en backend, y el botón de borrado en el perfil de usuarios y clientes en frontend utilizando Sweetalert2.
+He trabajado también en una tarea de refactorización del middleware aunque aún no está lista. 
+- **Villalobos Páez, Francisco Manuel**: 
+- **Zambrana Guerra, Jesús**:
 

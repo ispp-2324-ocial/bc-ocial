@@ -9,7 +9,7 @@
 
 # GRUPO 2
 
-### SPRINT 3
+### PPL
 
 ### Miembros que han contribuido
 

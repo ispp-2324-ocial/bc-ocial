@@ -15,4 +15,4 @@
   <embed src="/assets/files/time-effort-report-s3-9afb0e910331e8df72d7c8e2ecc8b5d3.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
-[Enlace al doc](../../static/PDFs/time-effort-report-s3.pdf)
+[Enlace al doc](../../../static/PDFs/time-effort-report-s3.pdf)

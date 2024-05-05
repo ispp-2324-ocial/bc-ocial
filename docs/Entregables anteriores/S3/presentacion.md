@@ -14,4 +14,4 @@
   <embed src="/assets/files/presentacion-s3-a435697b413b183b2e15e9702bc137b7.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
-[ENLACE AL DOC](../../static/PDFs/presentacion-s3.pdf)
+[ENLACE AL DOC](../../../static/PDFs/presentacion-s3.pdf)

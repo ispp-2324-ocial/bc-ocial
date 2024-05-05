@@ -148,4 +148,4 @@ Si le damos al botón de la derecha podremos ver los detalles de nuestra cuenta 
 </MDXLayout>
 
 
-[ENLACE AL VIDEO](../../static/videos/DemoOcialS3.mp4)
+[ENLACE AL VIDEO](../../../static/videos/DemoOcialS3.mp4)

@@ -11,7 +11,9 @@
 ### PPL
 
 <MDXLayout>
-  <embed src="/assets/files/presentacion-s3-a435697b413b183b2e15e9702bc137b7.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="/assets/files/Presentación_WPL-1126576407959c6e34308bc47169a8d0.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="/assets/files/Presentación_Marketing-1c703d276689395b38799deb5a498d30.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
-[ENLACE AL DOC](../../static/PDFs/presentacion-s3.pdf)
+[ENLACE AL DOC](../../static/PDFs/Presentación_WPL.pdf)
+[ENLACE AL DOC](../../static/PDFs/Presentación_Marketing.pdf)

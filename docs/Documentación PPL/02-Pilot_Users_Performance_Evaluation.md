@@ -24,19 +24,19 @@
 
 | Factor                                 | #S1 | #S2 | #S3 | #PPL | #WPL |
 |----------------------------------------|-----|-----|-----|------|------|
-| Puntualidad                            |  -  |  10 |   10  |      |      |
-| Validez de comentarios                 |  -  |  10 |     10|      |      |
-| Cantidad de comentarios                |  -  |  5  |    5 |      |      |
-| Pruebas gráficas de bugs detectados    |  -  |  0  |    8 |      |      |
-| Detalle en la explicación de comentarios | - |  7  |    7 |      |      |
+| Puntualidad                            |  -  |  10 |   10  |  10    |      |
+| Validez de comentarios                 |  -  |  10 |     10| 10     |      |
+| Cantidad de comentarios                |  -  |  5  |    5 |    5  |      |
+| Pruebas gráficas de bugs detectados    |  -  |  0  |    8 |  8    |      |
+| Detalle en la explicación de comentarios | - |  7  |    7 |   8   |      |
 
 
-Puntualidad: Tardan en responder al feedback menos de un día
+Puntualidad: Tardan en responder al feedback menos de un día, por lo tanto, tienen una puntualidad muy positiva.
 
 Validez de comentarios: Los comentarios en las casillas de texto del formulario son claros y sencillos de entender
 
 Cantidad de comentarios: Al responder al feedback un número muy reducido de personas y ser siempre las mismas no tenemos recogemos muchas más ideas variadas de mejoras o diferentes puntos de vista de la aplicación.
 
-Pruebas gráficas de bugs detectados: Solo 1 persona que realiza el formulario envía fotos de bugs
+Pruebas gráficas de bugs detectados: No todos los usuarios pilotos que realiza el formulario envía fotos del errores y no de todos los que se mencionan.
 
-Detalle en la explicación de comentarios: 
+Detalle en la explicación de comentarios: Usan las casillas de texto para responder de manera larga, pero falta un poco más de detalle o contexto en algunos problemas que encuentran

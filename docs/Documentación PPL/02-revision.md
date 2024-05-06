@@ -33,7 +33,7 @@ URL deployment platform: <https://app.ocial.es/>
 
 URL Github repository: <https://github.com/ispp-2324-ocial> 
 
-URL Clockify: https://app.clockify.me/shared/6638e3ff7f949f49e4733ea6 
+URL Clockify: https://app.clockify.me/shared/66391c6f963af9639f18a2bb
 
 ## CREDENCIALES
 

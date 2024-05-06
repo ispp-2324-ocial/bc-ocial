@@ -37,6 +37,7 @@ sidebar_position: 1
 |   18/02/2024     | V1.1     |  Video Storyboard  | S2|
 |   27/03/2024     | V1.2     |  Añadido Storyboard clientes  | S2|
 |   20/04/2024     | V2.0     |  Añadido videos publicitarios  | S3|
+|   06/05/2024     | V3.0     |  Añadido videos inversores  | PPL|
 
 ### StoryBoard usuarios
 ![foto1](https://cdn.discordapp.com/attachments/1217905385323757689/1217905461760888984/Story_board_final_page-0001.jpg?ex=660ef459&is=65fc7f59&hm=dd263e39d66fe551adfcc91eff0bc81b6c014a4ad0932c058f83a1ec9119ff78&)
@@ -79,12 +80,23 @@ sidebar_position: 1
 
 <MDXLayout>
   <video controls width="100%">
-    <source src="/assets/files/PUBLI%20CLIENTES%20V2-a03ddd164298ed65c9e81859a61039de.mp4" type="video/mp4" />
+    <source src="/assets/files/PubliClientesV3-f49cb934d3ad634f96889aa3f5ed2031.mp4" type="video/mp4" />
     Tu navegador no soporta el elemento de video.
   </video>
 </MDXLayout>
 
-[URL al video](../../static/videos/PUBLI%20CLIENTES%20V2.mp4)
+[URL al video](../../static/videos/PubliClientesV3.mp4)
+
+**INVERSORES**
+
+<MDXLayout>
+  <video controls width="100%">
+    <source src="/assets/files/VIDEO-Inversores-d6e792c8a528601083f900ee679df312.mp4" type="video/mp4" />
+    Tu navegador no soporta el elemento de video.
+  </video>
+</MDXLayout>
+
+[URL al video](../../static/videos/VIDEO-Inversores.mp4)
 
 ### Canción publicitaria
 

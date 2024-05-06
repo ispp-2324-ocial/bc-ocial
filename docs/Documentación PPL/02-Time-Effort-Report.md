@@ -9,10 +9,10 @@
 ---
 
 # GRUPO 2
-### SPRINT 3
+### PPL
 
 <MDXLayout>
-  <embed src="/assets/files/time-effort-report-s3-9afb0e910331e8df72d7c8e2ecc8b5d3.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="/assets/files/timePPL-6bd15140a6be5f8031bfb2083ae2e6d5.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
-[Enlace al doc](../../static/PDFs/time-effort-report-s3.pdf)
+[Enlace al doc](../../static/PDFs/timePPL.pdf)

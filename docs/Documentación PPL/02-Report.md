@@ -11,30 +11,23 @@
 
 ### GRUPO 2
 
-### Miembros que han contribuido
-
-
-- Ramón José Guerrero Romero
-- Juan José Gómez Borrallo
+|Fecha|Versión|Autores|Descripción |Entrega|
+| :- | :- |:-| :- | :- |
+|   20/02/2024     | V1.0     | Juan José Gómez Borrallo,Ramón José Guerrero Romero |  Documento inicial   | DP|
+|     02/03/2024   |  V2.0    | Juan José Gómez Borrallo,Ramón José Guerrero Romero |   Actualización S1 | S1
+|     01/04/2023  |    V3.0 | Juan José Gómez Borrallo,Ramón José Guerrero Romero |  Actualización S2 | S2
+|     22/04/2023  |    V3.1 | Juan José Gómez Borrallo,Ramón José Guerrero Romero |  Actualización S3 | S3
+|     06/05/2023  |    V3.2 | Juan José Gómez Borrallo,Paula Peña Fernández|  Actualización PPL | PPL
 
 
 ### Índice
 
 - [Índice](#índice)
-- [Historial de versiones](#historial-de-versiones)
 - [Base de conocimiento](#base-de-conocimiento)
 - [Contenido expuesto por el grupo 2 en la base de datos común](#contenido-expuesto-por-el-grupo-2-en-la-base-de-datos-común)
 - [Actuaciones de consolidación que se han llevado a cabo](#actuaciones-de-consolidación-que-se-han-llevado-a-cabo)
 - [Bibliografía](#bibliografía)
 
-### Historial de versiones
-| Fecha | Versión | Descripción | Entrega |
-|--------------|--------------|--------------|--------------|
-|   20/02/2024     | V1.0     |  Documento inicial   | DP|
-|     02/03/2024   |  V2.0    |    Actualización S1 | S1
-|     01/04/2023  |    V3.0 |   Actualización S2 | S2
-|     22/04/2023  |    V3.1 |   Actualización S3 | S3
-|     06/05/2023  |    V3.2 |   Actualización PPL | PPL
 
 
 ### Base de conocimiento

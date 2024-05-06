@@ -28,7 +28,7 @@
   - [Sprint 1 (S1)](#sprint-1-s1)
   - [Sprint 2 (S2)](#sprint-2-s2)
   - [Sprint 3 (S3)](#sprint-3-s3)
-  - [Preparing Project Launch(PPL)](#preparing-project-launch-ppl)
+  - [Preparing Project Launch(PPL)](#project-launch-project-ppl)
 
 
 
@@ -187,21 +187,23 @@ En cuanto a Frontend,  he trabajado en ‘Pair Programming’ junto Francisco Ma
 
 #### Project Launch Project (PPL)
 
-- **Fernández Gallardo, Fernando**: 
-- **García Lergo, Horacio**: 
+- **Fernández Gallardo, Fernando**: Como estaba ya muy cerca del límite de horas, he hecho algunas tareas de mantenimiento menores en la landing page y en frontend he configurado PWA y la construcción de las apps para el móvil
+- **García Lergo, Horacio**: Para este sprint he empezado a diseñar un modelo 3d de un globo de ocial, diseño de recortables y ahora me pondré con los mockups
 - **Gómez Borrallo, Juan José**:En este Sprint me he encargado como en los demás de realizar todas las tareas de secretaría junto con mi compañero Ramón, además de actualizar constantemente la base de conocimiento común. También he realizado de usuario piloto para el grupo de banquetbuddy. Además estuve ayudando en la revisión y entrega del anterior sprint. Por último, me he encargado de realizar el anuncio de inversores, y corregir el anuncio de clientes con el feedback de los profesores 
-- **Guerrero Romero, Ramón José**: 
-- **Montalbán Martín, Raúl**: 
-- **Ortiz Gutiérrez, José Carlos**: 
-- **Peña Fernández, Paula**: Me he encargado de realizar la presentación de preparación del WPL y la presentación de marketing para el PPL, aparte del ensayo para los días de exposición. He sido CM de la cuenta de instagram de la aplicación, además de organizar las semanas para subir contenido y preparar el lanzamiento. He actualizado los documentos de nuestro docusauros para la entrega. He realizado nuevas encuestas para los usuarios pilotos, enviandole los correos con manual de uso de la aplicación y recogida de feedback.
-- **Pizarro López, Eduardo**: 
-- **Rodríguez Dueñas, Aitor**: 
-- **Romero Flores, Adrián**: 
-- **Ruiz Marchueta, Iñigo**: En el PPL he realizado parte del testing de backend junto a mi compañero Jose Carlos, las presentaciones y su correspondientes ensayos y me he encargado la ultimas semana de subir contenido a Twitter
+- **Guerrero Romero, Ramón José**: Tareas de secreataria, ayuda a solucionar fix detectados en la aplicación
+- **Montalbán Martín, Raúl**: Fix event test, añadir un test de integración en event, revisión ultimas prs de backend y PR 142 a main de todos los últimos cambios de develop
+- **Ortiz Gutiérrez, José Carlos**: En este sprint me he encargado de añadir y modificar los test de backend, añadiendo nuevos test de integración y unitarios y modificando algunos ya existentes para intentar alcanzar el máximo coverage de código backend posible. Además me he encargado de realizar una nueva demo de la aplicación.
+- **Peña Fernández, Paula**: Me he encargado de realizar la presentación de preparación del WPL y la presentación de marketing para el PPL, aparte del ensayo para los días de exposición. He sido CM de la cuenta de instagram de la aplicación, además de organizar las semanas para subir contenido y preparar el lanzamiento. He actualizado los documentos de nuestro docusauros para la entrega. He realizado nuevas encuestas para los usuarios pilotos, enviandole los correos con manual de uso de la aplicación y recogida de feedback. Probar la aplicación del grupo 8 y responder los formularios como usuario piloto.
+- **Pizarro López, Eduardo**: He hecho testing junto a Carlos, para ello tmb la opción de eliminar en backend un usuario o cliente, después añadido un botón en el perfil para esto y solucionar varios errores de front
+- **Rodríguez Dueñas, Aitor**: He revisado el GDPR, he realizado los posts al blog de  la landing page y realizado un seguimiento de palabras clave y SEO. Además he colaborado en la realizacion en uno de los anuncios de ocial.
+- **Romero Flores, Adrián**: En este Preparing Project Launch, he seguido con mi rol de Project Manager y DevOps y he desempeñado uno nuevo como Community Manager. También he hecho de usuario piloto.
+He sido responsable de los despliegues del backend en GCloud.
+Además, junto a Paula, hemos realizado contenido para las redes sociales de Ocial. Por último, he realizado el diseño de la publicidad para las pantallas de la facultad y he añadido subtitulos a los vídeos/anuncios.
+- **Ruiz Marchueta, Iñigo**: En el PPL he realizado parte del testing de backend junto a mi compañero Jose Carlos, las presentaciones y su correspondientes ensayos y me he encargado la ultimas semana de subir contenido a Twitter.Probar la aplicación del grupo 8 y responder los formularios como usuario piloto.
 - **Varela Soult, Carlos**:
 En el PPL me he encargado principalmente de hacer testing E2E en frontend utilizando Playwright con Eduardo Pizarro.
 Durante el desarrollo de los tests, era necesario poder borrar usuarios para que la base de datos de la aplicación no se llenara de información de prueba, así que incluí el método de borrado de usuarios y clientes en backend, y el botón de borrado en el perfil de usuarios y clientes en frontend utilizando Sweetalert2.
 He trabajado también en una tarea de refactorización del middleware aunque aún no está lista. 
-- **Villalobos Páez, Francisco Manuel**: 
-- **Zambrana Guerra, Jesús**:
+- **Villalobos Páez, Francisco Manuel**: En este cuarto Sprint, he seguido cumpliendo con mis funciones de desarrollador FullStack, he trabajado ‘Pair Programming’ junto a Jesús Zambrana para arreglar algunos errores de frontend. También, he realizado mi papel como usuario piloto del grupo de tarde (grupo 8).
+- **Zambrana Guerra, Jesús**: En este cuarto Sprint, he seguido cumpliendo con mis funciones de desarrollador FullStack, he trabajado ‘Pair Programming’ junto a Francisco Manuel Villalobos para arreglar algunos errores de frontend. También, he realizado mi papel como usuario piloto del grupo de tarde (grupo 8) y he participado en la revisión del S2.
 

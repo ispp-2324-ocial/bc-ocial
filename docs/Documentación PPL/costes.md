@@ -98,7 +98,7 @@
 | Email Check | 0,00 € | 1 | 2 | 0 € |
 
 #### Costes de operación mensual 
-| Coste | 2.005,24 € |
+| Coste | 2.128,3 € |
 |--|-----|
 
 | Paquete | Precio/mes | Cantidad | Meses | Total |
@@ -109,6 +109,11 @@
 | SonarCloud | 11,00 € | 1 | 1 | 11,00 € |
 | GitHub Actions | 2,30 € | 1 | 1 | 2,30 € |
 | Email Check | 50,00 € | 1 | 1 | 50,00 € |
+| PUblicación PlayStore| 25,00 € | 1 | 1 | 25,00 € |
+| Publicación AppStore | 99,00 € | 1 | 1 | 99,00 € |
+
+
+
 
 #### Costes de Recompensa Usuarios Pilotos
 | Coste |  1.402,92 € |

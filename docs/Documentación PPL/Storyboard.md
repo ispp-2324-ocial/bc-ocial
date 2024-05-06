@@ -12,9 +12,9 @@ sidebar_position: 1
 
 ---
 
-# SPRINT 3
+# GRUPO 2
 
-### GRUPO 2
+### PPL
 
 ### Miembros que han contribuido
 

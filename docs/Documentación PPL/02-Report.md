@@ -7,7 +7,7 @@
 
 ---
 
-# SPRINT 3
+# PPL
 
 ### GRUPO 2
 
@@ -34,6 +34,7 @@
 |     02/03/2024   |  V2.0    |    Actualización S1 | S1
 |     01/04/2023  |    V3.0 |   Actualización S2 | S2
 |     22/04/2023  |    V3.1 |   Actualización S3 | S3
+|     06/05/2023  |    V3.2 |   Actualización PPL | PPL
 
 
 ### Base de conocimiento
@@ -59,6 +60,7 @@ También se ha añadido individualmente todo lo recopilado desde el grupo 2 en s
 ![Ejemplo 4](https://i.gyazo.com/c8d252fb9ed7466d0d070cf468efe1af.png)
 ![Ejemplo 5](https://i.gyazo.com/6e325202e208dded9d9c62781a265006.png)
 ![Ejemplo 6](https://i.gyazo.com/3fba731989100722bc1c097702895053.png)
+![Ejemplo 7](https://i.gyazo.com/5e79e672b6c97ab7d42aa48f6ac99d62.png)
 
 ### Actuaciones de consolidación que se han llevado a cabo. 
 

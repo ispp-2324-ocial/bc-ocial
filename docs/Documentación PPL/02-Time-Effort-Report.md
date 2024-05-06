@@ -12,7 +12,7 @@
 ### PPL
 
 <MDXLayout>
-  <embed src="/assets/files/timePPL-7e67edd7bf1362b85e5bd1bb8ead5517.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="/assets/files/timePPL-6bd15140a6be5f8031bfb2083ae2e6d5.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
 [Enlace al doc](../../static/PDFs/timePPL.pdf)

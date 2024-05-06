@@ -80,12 +80,12 @@ sidebar_position: 1
 
 <MDXLayout>
   <video controls width="100%">
-    <source src="/assets/files/PUBLI%20CLIENTES%20V2-a03ddd164298ed65c9e81859a61039de.mp4" type="video/mp4" />
+    <source src="/assets/files/PubliClientesV3-f49cb934d3ad634f96889aa3f5ed2031.mp4" type="video/mp4" />
     Tu navegador no soporta el elemento de video.
   </video>
 </MDXLayout>
 
-[URL al video](../../static/videos/PUBLI%20CLIENTES%20V2.mp4)
+[URL al video](../../static/videos/PubliClientesV3.mp4)
 
 **INVERSORES**
 

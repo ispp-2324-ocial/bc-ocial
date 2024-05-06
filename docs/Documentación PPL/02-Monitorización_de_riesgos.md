@@ -235,7 +235,7 @@ Debido a que han ocurrido 2 riesgos durante esta semana, se han tenido que tomar
 
 Ha surgido también un nuevo riesgo de despliegue de la aplicación. Al desplegar nueva versión ocurren fallos y estamos dedicando mucho tiempo a esta tarea. Debido a esto, hemos tenido que recortar el alcance del Sprint 2, pasando algunas de las tareas al Sprint 3. Como solución, los integrantes que saben más sobre despliegue están dando algunos tutoriales para que se puedan encargar más miembros del equipo y que sea una tarea más rápida.
 
-### Semana 8
+### Semana 11
 
 #### Riesgos ocurridos y vigentes
 

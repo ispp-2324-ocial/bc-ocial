@@ -7,7 +7,7 @@
 
 ---
 
-# SPRINT 3
+# PPL
 
 ### GRUPO 2
 
@@ -34,6 +34,7 @@
 |     02/03/2024   |  V2.0    |    Actualización S1 | S1
 |     01/04/2023  |    V3.0 |   Actualización S2 | S2
 |     22/04/2023  |    V3.1 |   Actualización S3 | S3
+|     06/05/2023  |    V3.2 |   Actualización PPL | PPL
 
 
 ### Base de conocimiento

@@ -12,7 +12,7 @@
 
 <MDXLayout>
   <embed src="/assets/files/Presentación_WPL-2bea85ea8d337339ed3fd5d131fd2d24.pdf" type="application/pdf" width="100%" height="600px" />
-  <embed src="/assets/files/Presentación_Marketing-e1048b0af9b5814c246aa87a405f72d7.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="/assets/files/Presentación_Marketing-2fee2759990fb90d49b20d8dc3a9d6ff.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
 [ENLACE AL DOC](../../static/PDFs/Presentación_WPL.pdf)

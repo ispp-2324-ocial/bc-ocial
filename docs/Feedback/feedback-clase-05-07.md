@@ -93,27 +93,31 @@ Se crea documento para **almacenar el feedback** recibido por los profesores de 
 
 - No ha funcionado bien el inicio efectivo
 - Elevator Pitch no usar vocabulario de la asignatura.
+- Re ducir la DEMO
 - No "liarse" tanto hablando de más.
 - Mal audio (debido a la clase).
 - No poner transparencias con mucho texto.
+- Mucha cifra que no se etiendo en los costes.
   
 
 ## Grupo 4
 
 - Buen inicio. No decir vamos a...(hablar de esto, de lo otro).
+- Mejorar transición entre las diapositivas.
 - Buena DEMO.
-- Imagenes de los perfiles, salen distorsionadas.
+- Imagenes de los perfiles, salen distorsionadas. Chat no responsive.
 - No mostrar en tanto detalle a los miembros del equipo.
 - Mucho detalle en los costes.
 - Cambiar el logo a "twitter".
 - Redondear las cifras de los costes.
+- Video de inversores está mezclado.
 
 
 ## Grupo 5
 
 - Buen inicio efectivo.
 - Mejorar la DEMO.
-- Bein trabajado el tema de los inversores.
+- Bien trabajado el tema de los inversores.
 - No cambiar diapositivas de fondo negro a fondo blanco.
 - Quitar términos de la asignatura.
 - Decir cuanto supone el tiempo en marketing.
@@ -122,13 +126,20 @@ Se crea documento para **almacenar el feedback** recibido por los profesores de 
 ## Grupo 3
 
 - Mejorar killer opener, ya que hay mucho ruido.
+- Hilo argumental.
+- Remarcar con cuadro los competidores.
 - Colores en alguna diapositiva.
 - Buena DEMO.
+- Demasiado detalle en el equipo.
+- Rellenar tiempo equipo con cosas de marketing.
 
 ## Grupo 2
 
 - La competencia, los que sean todo rojo, poner "sub-objetivos" que si se comparten.
 - DEMO solo funcionalidades clave.
+- Dar vuelta al analisis de competidores.
+- Mas eventos en la DEMO.
+- Hilo argumental.
 
 
 ## Grupo 1
@@ -138,6 +149,7 @@ Se crea documento para **almacenar el feedback** recibido por los profesores de 
 - Cambiar la música de fondo.
 - Tener correlación lo dicho con lo que aparece luego en el plan de precios.
 - Keyword: team building no sirve
+- Video inversores quitar parte que se repite.
 
 
 ## Comentarios generales

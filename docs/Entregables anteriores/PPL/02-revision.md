@@ -90,7 +90,7 @@ Una vez que inicias sesión, te envía a la pantalla principal (botón central) 
 
 **Caso de uso 5**:El Usuario valora el evento dando like(Caso de uso implementado en #S3)
 
-![foto6](../../static/img/like.jpg)
+![foto6](../../../static/img/like.jpg)
 
 **Caso de uso 6**:Usuario comparte un evento(Caso de uso implementado en #S3)
 

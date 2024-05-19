@@ -153,4 +153,4 @@ Si le damos al botón de perfil podremos ver los datos de nuestra cuenta, compro
 </MDXLayout>
 
 
-[ENLACE AL VIDEO](../../static/videos/DemoOcialS3.mp4)
+[ENLACE AL VIDEO](../../../static/videos/DemoOcialS3.mp4)

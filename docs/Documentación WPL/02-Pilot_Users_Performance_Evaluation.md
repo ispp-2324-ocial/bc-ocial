@@ -9,7 +9,7 @@
 
 # GRUPO 2
 
-### PPL
+### WPL
 | Fecha      | Versión | Autores|Descripción                                        | Entrega |
 |------------|---------|---|--------------------------------------------------------|---------|
 | 24/02/2024 | V1.0    | Paula Peña Fernández | Creación del documento              | S1      |

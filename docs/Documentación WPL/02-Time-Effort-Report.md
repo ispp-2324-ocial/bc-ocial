@@ -9,10 +9,10 @@
 ---
 
 # GRUPO 2
-### PPL
+### WPL
 
 <MDXLayout>
-  <embed src="/assets/files/timePPL-6bd15140a6be5f8031bfb2083ae2e6d5.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="/assets/files/reportwpl-efeb7e0a5bc0a2d921c399fd6c49ed72.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
-[Enlace al doc](../../static/PDFs/timePPL.pdf)
+[Enlace al doc](../../static/PDFs/reportwpl.pdf)

@@ -10,7 +10,7 @@
 # GRUPO 2
 
 
-### PPL
+### WPL
 
 |Fecha|Versión|Autores|Descripción |Entrega|
 | :- | :- |:-| :- | :- |
@@ -18,6 +18,7 @@
 |01/04/2024|V2.0|Paula Peña Fernández, Adrián Romero Flores | Review S2|S2|
 |21/04/2024|V3.0|Paula Peña Fernández| Review S3|S3|
 |05/05/2024|V4.0|Paula Peña Fernández| Review PPL|PPL|
+|20/05/2024|V4.0|Iñigo Ruiz Marchueta| Review WPL|WPL|
 
 
 ## INTRODUCCIÓN
@@ -149,8 +150,8 @@ Si le damos al botón de perfil podremos ver los datos de nuestra cuenta, compro
 ## DEMO
 
 <MDXLayout>
-  <embed src="/assets/files/DemoOcialS3-2d6f58995c728ff3dd33f6f628107ce3.mp4" type="video/mp4" width="100%" height="600px" />
+  <embed src="/assets/files/DemoWPL-c407bce1deb1d8d748a8a21bb4334a19.mp4" type="video/mp4" width="100%" height="600px" />
 </MDXLayout>
 
 
-[ENLACE AL VIDEO](../../static/videos/DemoOcialS3.mp4)
+[ENLACE AL VIDEO](../../static/videos/DemoWPL.mp4)

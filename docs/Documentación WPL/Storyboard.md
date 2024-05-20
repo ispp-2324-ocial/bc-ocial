@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Story Board
+# Anuncios
 
 ---
 
@@ -66,6 +66,17 @@ sidebar_position: 1
 
 [URL al video](../../static/videos/Publicidad%20OCIAL.mp4)
 
+**USUARIOS V2**
+
+<MDXLayout>
+  <video controls width="100%">
+    <source src="/assets/files/AnuncioUsuarioSub-3624348346be6e8311f634deb53047ee.mp4" type="video/mp4" />
+    Tu navegador no soporta el elemento de video.
+  </video>
+</MDXLayout>
+
+[URL al video](../../static/videos/AnuncioUsuarioSub.mp4)
+
 **CLIENTES VERSIÓN 1**
 
 <MDXLayout>
@@ -86,7 +97,16 @@ sidebar_position: 1
   </video>
 </MDXLayout>
 
-[URL al video](../../static/videos/PubliClientesV3.mp4)
+**CLIENTE ARTISTA**
+
+<MDXLayout>
+  <video controls width="100%">
+    <source src="/assets/files/sergio_adri-eeea559d6b54809ca9ab38bebdc999be.mp4" type="video/mp4" />
+    Tu navegador no soporta el elemento de video.
+  </video>
+</MDXLayout>
+
+[URL al video](../../static/videos/sergio_adri.mp4)
 
 **INVERSORES**
 
@@ -110,6 +130,17 @@ sidebar_position: 1
 </MDXLayout>
 
 [URL al video](../../static/videos/invers-v2.mp4)
+
+**INVERSOR GOOGLE**
+
+<MDXLayout>
+  <video controls width="100%">
+    <source src="/assets/files/googlesub2-b0c1d7d0552bc1bbcb17a743572bee46.mp4" type="video/mp4" />
+    Tu navegador no soporta el elemento de video.
+  </video>
+</MDXLayout>
+
+[URL al video](../../static/videos/googlesub2.mp4)
 
 ### Canción publicitaria
 

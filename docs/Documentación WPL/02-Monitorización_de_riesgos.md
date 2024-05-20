@@ -9,7 +9,7 @@
 
 # GRUPO 2
 
-### PPL
+### WPL
 
 ### Historial de versiones
 

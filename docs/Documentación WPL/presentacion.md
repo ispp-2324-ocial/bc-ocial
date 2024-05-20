@@ -1,4 +1,4 @@
-# Presentación PPL
+# Presentación WPL
 ---
 
 <MDXLayout>
@@ -8,12 +8,11 @@
 ---
 
 # GRUPO 2
-### PPL
+### WPL
 
 <MDXLayout>
-  <embed src="/assets/files/Presentación_WPL-2bea85ea8d337339ed3fd5d131fd2d24.pdf" type="application/pdf" width="100%" height="600px" />
-  <embed src="/assets/files/Presentación_Marketing-2fee2759990fb90d49b20d8dc3a9d6ff.pdf" type="application/pdf" width="100%" height="600px" />
+  <embed src="/assets/files/PresentaciónWPL-f3fc2c0c2104ad33488f6f6d5efbdf14.pdf" type="application/pdf" width="100%" height="600px" />
 </MDXLayout>
 
-[ENLACE AL DOC](../../static/PDFs/Presentación_WPL.pdf)
-[ENLACE AL DOC](../../static/PDFs/Presentación_Marketing.pdf)
+[ENLACE AL DOC](../../static/PDFs/PresentaciónWPL.pdf)
+

@@ -14,7 +14,7 @@ sidebar_position: 1
 
 # GRUPO 2
 
-### PPL
+### WPL
 
 ### Miembros que han contribuido
 
@@ -38,6 +38,7 @@ sidebar_position: 1
 |   27/03/2024     | V1.2     |  Añadido Storyboard clientes  | S2|
 |   20/04/2024     | V2.0     |  Añadido videos publicitarios  | S3|
 |   06/05/2024     | V3.0     |  Añadido videos inversores  | PPL|
+|   20/05/2024     | V4.0     |  Actualizado video inversores  | WPL|
 
 ### StoryBoard usuarios
 ![foto1](https://cdn.discordapp.com/attachments/1217905385323757689/1217905461760888984/Story_board_final_page-0001.jpg?ex=660ef459&is=65fc7f59&hm=dd263e39d66fe551adfcc91eff0bc81b6c014a4ad0932c058f83a1ec9119ff78&)
@@ -98,11 +99,23 @@ sidebar_position: 1
 
 [URL al video](../../static/videos/VIDEO-Inversores.mp4)
 
+
+**INVERSORES V2**
+
+<MDXLayout>
+  <video controls width="100%">
+    <source src="/assets/files/VIDEO-Inversores-d6e792c8a528601083f900ee679df312.mp4" type="video/mp4" />
+    Tu navegador no soporta el elemento de video.
+  </video>
+</MDXLayout>
+
+[URL al video](../../static/videos/invers-v2.mp4)
+
 ### Canción publicitaria
 
 <MDXLayout>
   <video controls width="100%">
-    <source src="/assets/files/En%20El%20Momento-3301312a46b3881727d4871b99477bc5.mp3" type="audio/mp3" />
+    <source src="/assets/files/invers-v2-613312acbabc54cc324230374a1927b8.mp4" type="audio/mp3" />
     Tu navegador no soporta el elemento de audio.
   </video>
 </MDXLayout>

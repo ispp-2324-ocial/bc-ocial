@@ -36,23 +36,23 @@
 
 ### Agreed Individual Performance Evaluation
 
-| Student                     | DP1 | S1 | S2 | S3 | PPL | WPL | Total | Weight |
-|-----------------------------|-----|----|----|----|-----|-----|-------|--------|
-| Fernández Gallardo, Fernando | 9   | 9  |  10  | 10   | 10    |     |     |        |
-| García Lergo, Horacio       | 9   | 10 |  10  |    10|10     |     |     |        |
-| Gómez Borrallo, Juan José   | 10  | 9  |  10  |   10 |10     |     |     |        |
-| Guerrero Romero, Ramon Jose | 10  | 9  |  10  |   10 |   10  |     |    |        |
-| Montalbán Martín, Raúl      | 9   | 9  |  10  |    10|  10   |     |    |        |
-| Ortiz Gutiérrez, José Carlos| 9   | 9  |  10  |    10|  10   |     |     |        |
-| Peña Fernández, Paula       | 10  | 10 |  10  |    10|    10 |     |     |        |
-| Pizarro López, Eduardo      | 9   | 9  |   10 |   10 |     10|     |    |        |
-| Rodríguez Dueñas, Aitor     | 9   | 10 |  10  |    10| 10    |     |    |        |
-| Romero Flores, Adrián       | 9   | 10 |   10 |    10| 10    |     |    |        |
-| Ruiz Marchueta, Iñigo       | 10  | 9  |   10 |    10| 10    |     |     |        |
-| Varela Soult, Carlos        | 9   | 9  |  10  |    10| 10    |     |    |        |
-| Villalobos Páez, Francisco Manuel | 9   | 9  | 10   |10    | 10    |     |     |        |
-| Zambrana Guerra, Jesús      | 9   | 9  |   10 | 10    |   10  |     |     |        |
-| Total                       | 130 | 130|   140 |  140  | 140    |     |       |        |
+| Student                           |  DP1 |  S1  |  S2  |  S3  |  PPL |  WPL | Total | Weight |
+|-----------------------------------|------|------|------|------|------|------|-------|--------|
+| Fernández Gallardo, Fernando      |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| García Lergo, Horacio             |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Gómez Borrallo, Juan José         |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Guerrero Romero, Ramon Jose       |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Montalbán Martín, Raúl            |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Ortiz Gutiérrez, José Carlos      |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Peña Fernández, Paula             |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Pizarro López, Eduardo            |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Rodríguez Dueñas, Aitor           |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Romero Flores, Adrián             |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Ruiz Marchueta, Iñigo             |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Varela Soult, Carlos              |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Villalobos Páez, Francisco Manuel |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Zambrana Guerra, Jesús            |  10  |  10  |  10  |  10  |  10  |  10  |   10  |   60   |
+| Total                             |  140 |  140 |  140 |  140 |  140 |  140 |  140  |        |
 
 ---
 
@@ -207,3 +207,20 @@ He trabajado también en una tarea de refactorización del middleware aunque aú
 - **Villalobos Páez, Francisco Manuel**: En este cuarto Sprint, he seguido cumpliendo con mis funciones de desarrollador FullStack, he trabajado ‘Pair Programming’ junto a Jesús Zambrana para arreglar algunos errores de frontend. También, he realizado mi papel como usuario piloto del grupo de tarde (grupo 8).
 - **Zambrana Guerra, Jesús**: En este cuarto Sprint, he seguido cumpliendo con mis funciones de desarrollador FullStack, he trabajado ‘Pair Programming’ junto a Francisco Manuel Villalobos para arreglar algunos errores de frontend. También, he realizado mi papel como usuario piloto del grupo de tarde (grupo 8) y he participado en la revisión del S2.
 
+#### Project Launch Project (WPL)
+
+- **Fernández Gallardo, Fernando**: En este sprint me he encargado de la revisión de Pull Request.
+- **García Lergo, Horacio**: Para este Sprint me he encargado de rehacer la demo, el anuncio de clientes, mockups para los anuncios y el recortable del logo.
+- **Gómez Borrallo, Juan José**: Para el WPL me he encargado de realizar las tareas de secretaría junto con mi compañero Ramón, y también me he encargado de volver a realizar de nuevo el video de inversores y de hacer de usuario piloto.
+- **Guerrero Romero, Ramón José**: Por el motivo de haber superado el limite de horas de la asignatura en el anterior sprint no se ha realizado ninguna tarea por mi parte.
+- **Montalbán Martín, Raúl**: Por el motivo de haber superado el limite de horas de la asignatura en el anterior sprint no se ha realizado ninguna tarea por mi parte.
+- **Ortiz Gutiérrez, José Carlos**: Para este entregable me he ocupado de la revisión de documentos, creación de contenido para Tik Tok y he ayudado a Horacio con la demo de la app.
+- **Peña Fernández, Paula**: En este último entregable he realizado la presentación de la exposición del WLP y la práctica de la misma. He subido contenido a Instagram y ayudado en el nuevo anuncio de usuarios.
+- **Pizarro López, Eduardo**: Para este entregable me he encargado de la revisión de tests.
+- **Rodríguez Dueñas, Aitor**: En este sprint he participado en los anuncios de la demo de ocial  de usuario y de cliente. Por la parte de marketing he modificado el blog de ocial.
+- **Romero Flores, Adrián**: En este World Project Launch, he seguido con mi rol de Project Manager y DevOps.
+He sido responsable de los despliegues del backend en GCloud y de las revisiones de las presentaciones y anuncios para esta entrega.
+- **Ruiz Marchueta, Iñigo**: Grabación y edición de video de unión entre ocial y google
+- **Varela Soult, Carlos**: Por el motivo de haber superado el limite de horas de la asignatura en el anterior sprint no se ha realizado ninguna tarea por mi parte.
+- **Villalobos Páez, Francisco Manuel**: Por el motivo de haber superado el limite de horas de la asignatura en el anterior sprint no se ha realizado ninguna tarea por mi parte.
+- **Zambrana Guerra, Jesús**: Por el motivo de haber superado el limite de horas de la asignatura en el anterior sprint no se ha realizado ninguna tarea por mi parte.

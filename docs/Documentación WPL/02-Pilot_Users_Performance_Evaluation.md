@@ -11,24 +11,24 @@
 
 ### PPL
 | Fecha      | Versión | Autores|Descripción                                        | Entrega |
-|------------|---------|---|-------------------------------------------------|---------|
-| 24/02/2024 | V1.0    | Paula Peña Fernández | Creación del documento                                             | S1      |
-| 31/03/2024 | V2.0   | Paula Peña Fernández | Actualización del S2                 | S2      |
-| 21/04/2024 | V3.0   | Paula Peña Fernández | Actualización del S3                 | S3      |
-| 05/05/2024 | V4.0   | Paula Peña Fernández | Actualización del PPL                | PPL      |
+|------------|---------|---|--------------------------------------------------------|---------|
+| 24/02/2024 | V1.0    | Paula Peña Fernández | Creación del documento              | S1      |
+| 31/03/2024 | V2.0    | Paula Peña Fernández | Actualización del S2                | S2      |
+| 21/04/2024 | V3.0    | Paula Peña Fernández | Actualización del S3                | S3      |
+| 05/05/2024 | V4.0    | Paula Peña Fernández | Actualización del PPL               | PPL     |
 
 
 
 
 ### Puntuaciones
 
-| Factor                                 | #S1 | #S2 | #S3 | #PPL | #WPL |
+| Factor                                 | #S1 | #S2 | #S3 | #PPL | #WPL*|
 |----------------------------------------|-----|-----|-----|------|------|
-| Puntualidad                            |  -  |  10 |   10  |  10    |      |
-| Validez de comentarios                 |  -  |  10 |     10| 10     |      |
-| Cantidad de comentarios                |  -  |  5  |    5 |    5  |      |
-| Pruebas gráficas de bugs detectados    |  -  |  0  |    8 |  8    |      |
-| Detalle en la explicación de comentarios | - |  7  |    7 |   8   |      |
+| Puntualidad                            |  -  |  10 |  10 |  10  |  N/A |
+| Validez de comentarios                 |  -  |  10 |  10 | 10   |  N/A |
+| Cantidad de comentarios                |  -  |  5  |   5 |    5 |  N/A |
+| Pruebas gráficas de bugs detectados    |  -  |  0  |   8 |  8   |  N/A |
+| Detalle en la explicación de comentarios | - |  7  |   7 |   8  |  N/A |
 
 
 Puntualidad: Tardan en responder al feedback menos de un día, por lo tanto, tienen una puntualidad muy positiva.
@@ -40,3 +40,5 @@ Cantidad de comentarios: Al responder al feedback un número muy reducido de per
 Pruebas gráficas de bugs detectados: No todos los usuarios pilotos que realiza el formulario envía fotos del errores y no de todos los que se mencionan.
 
 Detalle en la explicación de comentarios: Usan las casillas de texto para responder de manera larga, pero falta un poco más de detalle o contexto en algunos problemas que encuentran
+
+WPL*: En este entregable no se realiza ninguna evaluación. No se ha realizado ningún cambio significativo en cuanto al desarrollo, por tanto, no se ha necesitado el feedback de los usuarios pilotos.

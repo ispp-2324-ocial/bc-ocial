@@ -7,8 +7,7 @@
 
 ---
 
-# PPL
-
+# WPL
 ### GRUPO 2
 
 |Fecha|Versión|Autores|Descripción |Entrega|
@@ -18,6 +17,7 @@
 |     01/04/2023  |    V3.0 | Juan José Gómez Borrallo,Ramón José Guerrero Romero |  Actualización S2 | S2
 |     22/04/2023  |    V3.1 | Juan José Gómez Borrallo,Ramón José Guerrero Romero |  Actualización S3 | S3
 |     06/05/2023  |    V3.2 | Juan José Gómez Borrallo,Paula Peña Fernández|  Actualización PPL | PPL
+|     20/05/2023  |    V3.3 | Juan José Gómez Borrallo|  Actualización WPL | WPL
 
 
 ### Índice
@@ -54,16 +54,19 @@ También se ha añadido individualmente todo lo recopilado desde el grupo 2 en s
 ![Ejemplo 5](https://i.gyazo.com/6e325202e208dded9d9c62781a265006.png)
 ![Ejemplo 6](https://i.gyazo.com/3fba731989100722bc1c097702895053.png)
 ![Ejemplo 7](https://i.gyazo.com/5e79e672b6c97ab7d42aa48f6ac99d62.png)
+![Ejemplo 8](https://i.gyazo.com/fb53c5dcdec097852bda694b4851b950.png)
 
 ### Actuaciones de consolidación que se han llevado a cabo. 
 
-Hemos conseguido encontrar un killer opener que llame la atención y conecte con una explicación corta del funcionamiento de nuestra aplicación. Continuaremos repitiéndolo para pulirlo hasta el WPL.
+Hemos conseguido encontrar un killer opener que llame la atención y conecte con una explicación corta del funcionamiento de nuestra aplicación.
 
 Hemos recogido bien toda la información sobre Análisis de Costes, obviando palabras complicadas que no logren entender personas que no han estudiado esos términos (TCO, CAPEX, OPEX).
 
 Resumen del análisis de competidores, sin intentar convencer con muchas palabras que nuestra aplicación es mejor.
 
 Story Board bien enlazado con la demo, usando los mismos actores para realizar una explicación del funcionamiento de la aplicación real.
+
+Se ha modificado el video de inversores para dar una explicación a las cifras que aparecen.
 
 ### Bibliografía
 

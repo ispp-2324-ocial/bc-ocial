@@ -9,7 +9,7 @@
 
 # Grupo 2
 
-### PPL
+### WPL
 
 | Fecha     | Versión |Autores| Descripción                | Entrega |
 |-----------|---------|---|----------------------------|---------|
@@ -220,7 +220,7 @@ He trabajado también en una tarea de refactorización del middleware aunque aú
 - **Rodríguez Dueñas, Aitor**: En este sprint he participado en los anuncios de la demo de ocial  de usuario y de cliente. Por la parte de marketing he modificado el blog de ocial.
 - **Romero Flores, Adrián**: En este World Project Launch, he seguido con mi rol de Project Manager y DevOps.
 He sido responsable de los despliegues del backend en GCloud y de las revisiones de las presentaciones y anuncios para esta entrega.
-- **Ruiz Marchueta, Iñigo**: Grabación y edición de video de unión entre ocial y google
+- **Ruiz Marchueta, Iñigo**: Grabación y edición de video de unión entre ocial y google y revisión de la documentación.
 - **Varela Soult, Carlos**: Por el motivo de haber superado el limite de horas de la asignatura en el anterior sprint no se ha realizado ninguna tarea por mi parte.
 - **Villalobos Páez, Francisco Manuel**: Por el motivo de haber superado el limite de horas de la asignatura en el anterior sprint no se ha realizado ninguna tarea por mi parte.
 - **Zambrana Guerra, Jesús**: Por el motivo de haber superado el limite de horas de la asignatura en el anterior sprint no se ha realizado ninguna tarea por mi parte.

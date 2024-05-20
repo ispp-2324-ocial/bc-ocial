@@ -9,7 +9,7 @@
 
 # GRUPO 2
 
-### PPL
+### WPL
 
 ### Miembros que han contribuido
 
